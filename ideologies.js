@@ -15,7 +15,6 @@ ideologies = [
             "imp": 10,
             "mult": 30,
             "queer": 50,
-            "trans": 78,
             "biocon": 50,
             "ludd": 68,
         }
