@@ -148,92 +148,162 @@ div.text-wrapper {
     color: #222222;
     display: inline-block;
 }
-div.federal {
+div.Dominionst {
     background-color: #ffeb3b;
     text-align: left;
     border-right-style: solid;
 }
-div.unitary {
+div.Sentientist {
     background-color: #f44336;
     text-align: right;
     border-left-style: solid;
 }
-div.democratic {
+div.Individualist {
     background-color: #00897b;
     text-align: left;
     border-right-style: solid;
 }
-div.authority {
+div.Collectivist {
     background-color: #ff9800;
     text-align: right;
     border-left-style: solid;
 }
-div.globalist {
+div.Pragmatist {
     background-color: #03a9f4;
     text-align: left;
     border-right-style: solid;
 }
-div.isolation {
+div.Dogmatist {
     background-color: #9c27b0;
     text-align: right;
     border-left-style: solid;
 }
-div.pacifist {
+div.Bellicist {
     background-color: #ea90ab;
     text-align: right;
     border-left-style: solid;
 }
-div.militarist {
+div.Pacifist {
     background-color: #8bc34a;
     text-align: left;
     border-right-style: solid;
 }
-div.security {
+div.Reductionist {
     background-color: #3f51b5;
     text-align: left;
     border-right-style: solid;
 }
-div.freedom {
+div.Intersectionalist {
     background-color: #ffeb3b;
     text-align: right;
     border-left-style: solid;
 }
-div.equality {
+div.Anarchist {
     background-color: #f44336;
     text-align: left;
     border-right-style: solid;
 }
-div.markets {
+div.Hierarchist {
     background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
-div.secular {
+div.Democrat {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
-div.religious {
+div.Vanguardist {
     background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
-div.progress {
+div.Secularist {
     background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
 }
-div.tradition {
+div.Clericalist {
     background-color: #8bc34a;
     text-align: right;
     border-left-style: solid;
 }
-div.assimilation {
+div.Association {
     background-color: #ea90ab;
     text-align: left;
     border-right-style: solid;
 }
-div.multiculture {
+div.Unitarian {
+    background-color: #3f51b5;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Globalist {
+    background-color: #03a9f4;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Autarkist {
+    background-color: #9c27b0;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Imperialist {
+    background-color: #ea90ab;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Anticolonialist {
+    background-color: #8bc34a;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Multiculturalist {
+    background-color: #3f51b5;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Assimilationist {
+    background-color: #ffeb3b;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Liberation {
+    background-color: #f44336;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Essentialism {
+    background-color: #00897b;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Bioconservatist {
+    background-color: #ff9800;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Transhumanist {
+    background-color: #03a9f4;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Luddite {
+    background-color: #9c27b0;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Technophile {
+    background-color: #8bc34a;
+    text-align: right;
+    border-left-style: solid;
+}
+div.Labor {
+    background-color: #ea90ab;
+    text-align: left;
+    border-right-style: solid;
+}
+div.Play {
     background-color: #3f51b5;
     text-align: right;
     border-left-style: solid;
