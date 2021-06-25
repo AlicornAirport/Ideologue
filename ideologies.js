@@ -55,7 +55,8 @@ ideologies = [
     {
         "name": "Egoism",
         "stats": {
-            "coll": 0,
+          "dom": 100  
+          "coll": 0,
             "prag": 0,
             "anarchy": 100,
             "dem": 100,
