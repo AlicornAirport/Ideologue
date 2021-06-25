@@ -52,11 +52,23 @@ ideologies = [
             "imp": 10,
         }
     },
+      {
+        "name": "Anarcho-Capitalism",
+        "stats": {
+          "dom": 90
+          "coll": 30,
+            "prag": 75,
+            "anarchy": 100,
+            "dem": 10,
+            "assoc": 100,
+        }
+    },
     {
         "name": "Egoism",
         "stats": {
           "dom": 100  
           "coll": 0,
+            "red:" 100,
             "prag": 0,
             "anarchy": 100,
             "dem": 100,
