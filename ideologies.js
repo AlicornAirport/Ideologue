@@ -15,6 +15,7 @@ ideologies = [
             "imp": 10,
             "mult": 30,
             "queer": 50,
+            "trans": 78,
             "biocon": 50,
             "ludd": 68,
         }
@@ -44,12 +45,23 @@ ideologies = [
             "coll": 100,
             "pac": 60,
             "anarchy": 100,
-            "dem": 100
-            "red": 10
-            "queer": 90
-            "mult": 90
-            "imp": 10
+            "dem": 100,
+            "red": 10,
+            "queer": 90,
+            "mult": 90,
+            "imp": 10,
         }
     },
-    {  
+    {
+        "name": "Egoism",
+        "stats": {
+            "coll": 0,
+            "prag": 0,
+            "anarchy": 100,
+            "dem": 100,
+            "sec": 100,
+            "assoc": 100,
+              "play": 100,
+        }
+    },
 ];
