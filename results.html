@@ -25,22 +25,22 @@
 <h2><span class="weight-300" id="b-label"></span></h2>
 <div class="axis">
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
-    <div class="bar individual" id="bar-individual"><div class="text-wrapper" id="Individualist"></div></div>
     <div class="bar collective" id="bar-collective"><div class="text-wrapper" id="Collectivist"></div></div>
+    <div class="bar individual" id="bar-individual"><div class="text-wrapper" id="Individualist"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
 <h2><span class="weight-300" id="c-label"></span></h2>
 <div class="axis">
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
-    <div class="bar dogmat" id="bar-dogmat"><div class="text-wrapper" id="Dogmatist"></div></div>
     <div class="bar pragma" id="bar-pragma"><div class="text-wrapper" id="Pragmatist"></div></div>
+    <div class="bar dogmat" id="bar-dogmat"><div class="text-wrapper" id="Dogmatist"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
 <h2><span class="weight-300" id="d-label"></span></h2>
 <div class="axis">
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
+     <div class="bar pacifist" id="bar-pacifist"><div class="text-wrapper" id="Pacifist"></div></div>
     <div class="bar bellicist" id="bar-bellicist"><div class="text-wrapper" id="Bellicist"></div></div>
-    <div class="bar pacifist" id="bar-pacifist"><div class="text-wrapper" id="Pacifist"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
 <h2><span class="weight-300" id="e-label"></span></h2>
@@ -123,8 +123,8 @@
 <h2><span class="weight-300" id="i-label"></span></h2>
 <div class="axis">
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
-    <div class="bar work" id="bar-work"><div class="text-wrapper" id="Labor"></div></div>
     <div class="bar play" id="bar-play"><div class="text-wrapper" id="Play"></div></div>
+    <div class="bar work" id="bar-work"><div class="text-wrapper" id="Labor"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
 
@@ -298,22 +298,22 @@
     ideodist = Infinity
     for (var i = 0; i < ideologies.length; i++) {
         dist = 0
-        dist += Math.pow(Math.abs(ideologies[i].stats.sent - a), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.dom - a), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.coll - b), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.dogma - c), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.bell - d), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.inter - e), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.prag - c), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.pac - d), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.red - e), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.anarchy - f), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.dem - g), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.sec - h), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.unit - i), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.assoc - i), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.glob - j), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.imp - k), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.mult - l), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.queer - m), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.trans - n), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.tech - o), 1.73856063)
-        dist += Math.pow(Math.abs(ideologies[i].stats.work - p), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.biocon - n), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.ludd - o), 1.73856063)
+        dist += Math.pow(Math.abs(ideologies[i].stats.play - p), 2)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
