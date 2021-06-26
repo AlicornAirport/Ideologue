@@ -1,4 +1,46 @@
 ideologies = [
+     {
+        "name": "Post-Leftism",
+        "stats": {
+            "dom": 20,
+            "coll": 80,
+            "prag": 90,
+            "pac": 0,
+            "red": 60,
+            "anarchy": 100,
+            "dem": 90,
+            "sec": 100,
+            "assoc": 100,
+            "glob": 75,
+            "imp": 0,
+            "mult": 90,
+            "queer": 85,
+            "biocon": 15,
+            "ludd": 0,
+            "work": 0,
+        }
+    },    
+  {
+        "name": "Pink Anarchism",
+        "stats": {
+            "dom": 50,
+            "coll": 65,
+            "prag": 10,
+            "pac": 10,
+            "red": 20,
+            "anarchy": 100,
+            "dem": 100,
+            "sec": 90,
+            "assoc": 100,
+            "glob": 100,
+            "imp": 15,
+            "mult": 70,
+            "queer": 100,
+            "biocon": 25,
+            "ludd": 25,
+            "work": 50,
+        }
+    },
   {
         "name": "Neozapatismo",
         "stats": {
