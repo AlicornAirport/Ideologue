@@ -1,9 +1,31 @@
 ideologies = [
+        {
+        "name": "Panarchy",
+        "stats": {
+            "dom": 60,
+            "coll": 100,
+            "prag": 90,
+            "pac": 0,
+            "red": 0
+            "anarchy": 100,
+            "dem": 100,
+            "sec": 100,
+            "assoc": 100,
+            "glob": 100,
+            "imp": 0,
+            "mult": 100,
+            "queer": 100,
+            "biocon": 0,
+            "ludd": 0,
+            "work": 0,
+            "priv": 0,
+        }
+    },
      {
         "name": "Post-Leftism",
         "stats": {
             "dom": 20,
-            "coll": 80,
+            "coll": 50,
             "prag": 90,
             "pac": 0,
             "red": 60,
@@ -18,6 +40,7 @@ ideologies = [
             "biocon": 15,
             "ludd": 0,
             "work": 0,
+            "priv": 30,
         }
     },    
   {
@@ -39,6 +62,7 @@ ideologies = [
             "biocon": 25,
             "ludd": 25,
             "work": 50,
+            "priv": 10,
         }
     },
   {
@@ -60,6 +84,7 @@ ideologies = [
             "biocon": 40,
             "ludd": 80,
             "work": 10,
+            "priv": 0,
         }
     },
       {
@@ -81,6 +106,7 @@ ideologies = [
             "biocon": 90,
             "ludd": 70,
             "work": 90,
+            "priv": 30,
         }
     },
       {
@@ -102,6 +128,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 91,
             "work": 100,
+            "priv": 0,
         }
     },
   {
@@ -123,6 +150,7 @@ ideologies = [
             "biocon": 70,
             "ludd": 50,
             "work": 30,
+            "priv": 10,
         }
     },
       {
@@ -144,6 +172,7 @@ ideologies = [
             "biocon": 68,
             "ludd": 76,
             "work": 30,
+            "priv": 40,
         }
     },
   {
@@ -164,6 +193,7 @@ ideologies = [
             "queer": 50,
             "biocon": 50,
             "ludd": 68,
+            "priv": 15,
         }
     },
      {
@@ -183,6 +213,7 @@ ideologies = [
             "mult": 60,
             "queer": 60,
             "work": 90,
+            "priv": 75,
         }
     },
     
@@ -196,6 +227,7 @@ ideologies = [
             "queer": 90,
             "mult": 90,
             "imp": 10,
+            "priv": 0,
         }
     },
       {
@@ -207,6 +239,7 @@ ideologies = [
             "anarchy": 100,
             "dem": 10,
             "assoc": 100,
+            "priv": 100,
         }
     },
     {
@@ -221,6 +254,7 @@ ideologies = [
             "sec": 100,
             "assoc": 100,
             "work": 0,
+            "priv": 100
         }
     },
 ];
