@@ -127,6 +127,13 @@
     <div class="bar work" id="bar-work"><div class="text-wrapper" id="Labor"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
+<h2><span class="weight-300" id="i-label"></span></h2>
+<div class="axis">
+    <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
+    <div class="bar priv" id="bar-priv"><div class="text-wrapper" id="Private"></div></div>
+    <div class="bar comm" id="bar-comm"><div class="text-wrapper" id="Communal"></div></div>
+    <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
+</div>
 
 <br><br>
 
@@ -159,12 +166,18 @@
         }
     }
 
-    leftArray = ["Dominionist","Collectivist","Pragmatist","Pacifist","Reductionist","Anarchist","Democrat","Secularist","Free Association","Globalist","Imperialist","Multiculturalist","Queer Liberation","Bioconservatist","Luddite","Post-work"]
-    rightArray = ["Sentientist","Individualist","Dogmatist","Bellicist","Intersectionalist","Hierarchist","Vanguardist","Clericalist","Unitarian","Autarky","Anticolonialist","Assimilationist","Cishet Essentialist","Transhumanist","Technophile","Labor Essentialist"]
+    leftArray = ["Dominionist","Collectivist","Pragmatist","Pacifist","Reductionist","Anarchist","Democrat","Secularist","Free Association","Globalist","Imperialist","Multiculturalist","Queer Liberation","Bioconservatist","Luddite","Post-work","Private Property"]
+    rightArray = ["Sentientist","Individualist","Dogmatist","Bellicist","Intersectionalist","Hierarchist","Vanguardist","Clericalist","Unitarian","Autarky","Anticolonialist","Assimilationist","Cishet Essentialist","Transhumanist","Technophile","Labor Essentialist","Communal Property"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { return "Absolute " + leftArray[axis] } else
-        if (val >= 80) { return "Fervent " + leftArray[axis] } else
+        if (val >= 90) { 
+            if (leftArray[axis] = "Private Property") { return "Perpetual Private Property" }
+            else { return "Absolute " + leftArray[axis]} 
+        } else
+        if (val >= 80) { 
+            if (leftArray[axis] = "Private Property") { return "Private Property" }
+            else { return "Fervent " + leftArray[axis]} 
+        } else
         if (val >= 70) { return leftArray[axis] } else
         if (val >= 60) {
             if (leftArray[axis] = "Dominionist") { return "Mild Environmentalist" } else
@@ -206,8 +219,14 @@
             else { return "Moderate " + rightArray[axis] }
         } else
         if (val > 20) { return rightArray[axis] } else
-        if (val > 10) { return "Fervent " + rightArray[axis] } else
-        	{return "Absolute " + rightArray[axis]}
+        if (val > 10) {  
+            if (leftArray[axis] = "Private Property") { return "Social Property" }
+            else { return "Fervent " + leftArray[axis]} 
+        } else
+        	{ 
+            if (leftArray[axis] = "Private Property") { return "Commons" }
+            else { return "Absolute " + rightArray[axis]} 
+        } else
     }
 
     a  = getQueryVariable("a")
@@ -226,6 +245,7 @@
     n  = getQueryVariable("n")
     o  = getQueryVariable("o")
     p  = getQueryVariable("p")
+    q  = getQueryVariable("q")
     a2 = 100-a;
     b2 = 100-b;
     c2 = 100-c;
@@ -242,6 +262,7 @@
     n2 = 100-n;
     o2 = 100-o;
     p2 = 100-p;
+    q2 = 100-q;
 
     setBarValue("Dominionist", a)
     setBarValue("Sentientist", a2)
@@ -275,6 +296,8 @@
     setBarValue("Technophile", o2)
     setBarValue("Post-work", p)
     setBarValue("Labor Esentialist", p2)
+    setBarValue("Private Property", q)
+    setBarValue("Communal Property", q2)
     
 
     document.getElementById("a-label").innerHTML = setLabel(a, 0)
@@ -293,6 +316,7 @@
     document.getElementById("n-label").innerHTML = setLabel(n, 13)
     document.getElementById("o-label").innerHTML = setLabel(o, 14)
     document.getElementById("p-label").innerHTML = setLabel(p, 15)
+    document.getElementById("q-label").innerHTML = setLabel(q, 16)
 
     ideology = ""
     ideodist = Infinity
@@ -314,6 +338,7 @@
         dist += Math.pow(Math.abs(ideologies[i].stats.biocon - n), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.ludd - o), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.work - p), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.priv - q), 2)
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
@@ -400,6 +425,10 @@
         ctx.drawImage(img, 20, 1920, 100, 100)
         img = document.getElementById("img-work")
         ctx.drawImage(img, 680, 1920, 100, 100)
+        img = document.getElementById("img-private")
+        ctx.drawImage(img, 20, 2040, 100, 100)
+        img = document.getElementById("img-communal")
+        ctx.drawImage(img, 680, 2040, 100, 100)
 
         ctx.fillStyle="#222222"
         ctx.fillRect(120, 130, 560, 80)
@@ -418,6 +447,7 @@
         ctx.fillRect(120, 1690, 560, 80)
         ctx.fillRect(120, 1810, 560, 80)
         ctx.fillRect(120, 1930, 560, 80)
+        ctx.fillRect(120, 2050, 560, 80)
         ctx.fillStyle="#ffeb3b"
         ctx.fillRect(120, 134, 5.6*a-2, 72)
         ctx.fillStyle="#f44336"
@@ -482,7 +512,10 @@
         ctx.fillRect(120, 1934, 5.6*p-2, 72)
         ctx.fillStyle="#8bc34a"
         ctx.fillRect(682-5.6*p2, 1934, 5.6*p2-2, 72)
-        ctx.fillStyle="#222222"
+        ctx.fillStyle="#ffeb3b"
+        ctx.fillRect(120, 134, 5.6*q-2, 72)
+        ctx.fillStyle="#f44336"
+        ctx.fillRect(682-5.6*q2, 134, 5.6*q2-2, 72)
         ctx.font="700 80px Montserrat"
         ctx.textAlign="left"
         ctx.fillText("IDEOLOGUE", 20, 90)
@@ -507,6 +540,7 @@
         if (n  > 20) {ctx.fillText(n + "%", 130, 1747.5)}
         if (o > 20) {ctx.fillText(o + "%", 130, 1867.5)}
         if (p  > 20) {ctx.fillText(p + "%", 130, 1987.5)}
+        if (q  > 20) {ctx.fillText(q + "%", 130, 2107.5)}
         ctx.textAlign="right"
         if (a2    > 20) {ctx.fillText(a2 + "%", 670, 187.5)}
         if (b2     > 20) {ctx.fillText(b2 + "%", 670, 307.5)}
@@ -518,12 +552,13 @@
         if (h2  > 20) {ctx.fillText(h2 + "%", 670, 1027.5)}
         if (i2  > 20) {ctx.fillText(i2 + "%", 670, 1147.5)}
         if (j2   > 20) {ctx.fillText(j2) + "%", 130, 1267.5)}
-        if (k > 20) {ctx.fillText(k + "%", 130, 1387.5)}
-        if (l  > 20) {ctx.fillText(l + "%", 130, 1507.5)}
-        if (m > 20) {ctx.fillText(m + "%", 130, 1627.5)}
-        if (n  > 20) {ctx.fillText(n + "%", 130, 1747.5)}
-        if (o > 20) {ctx.fillText(o + "%", 130, 1867.5)}
-        if (p  > 20) {ctx.fillText(p + "%", 130, 1987.5)}
+        if (k2 > 20) {ctx.fillText(k2 + "%", 130, 1387.5)}
+        if (l2  > 20) {ctx.fillText(l2 + "%", 130, 1507.5)}
+        if (m2 > 20) {ctx.fillText(m2 + "%", 130, 1627.5)}
+        if (n2  > 20) {ctx.fillText(n2 + "%", 130, 1747.5)}
+        if (o2 > 20) {ctx.fillText(o2 + "%", 130, 1867.5)}
+        if (p2  > 20) {ctx.fillText(p2 + "%", 130, 1987.5)}
+        if (p2  > 20) {ctx.fillText(q2 + "%", 130, 2107.5)}
 
         ctx.font="300 30px Montserrat"
         ctx.fillText("ideologue.github.io", 780, 55)
@@ -544,6 +579,7 @@
         ctx.fillText(document.getElementById("n-label").innerHTML, 400, 1685)
         ctx.fillText(document.getElementById("o-label").innerHTML, 400, 1805)
         ctx.fillText(document.getElementById("p-label").innerHTML, 400, 1925)
+        ctx.fillText(document.getElementById("q-label").innerHTML, 400, 2045)
     }
     </script>
 </body>
