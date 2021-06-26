@@ -15,7 +15,6 @@ ideologies = [
             "imp": 10,
             "mult": 30,
             "queer": 50,
-            "trans": 78,
             "biocon": 50,
             "ludd": 68,
         }
@@ -36,7 +35,7 @@ ideologies = [
             "imp": 15,
             "mult": 60,
             "queer": 60,
-            "play": 10,
+            "work": 90,
         }
     },
     
@@ -74,7 +73,7 @@ ideologies = [
             "dem": 100,
             "sec": 100,
             "assoc": 100,
-              "play": 100,
+            "work": 0,
         }
     },
 ];
