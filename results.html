@@ -134,6 +134,13 @@
     <div class="bar comm" id="bar-comm"><div class="text-wrapper" id="Communal"></div></div>
     <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
 </div>
+<h2><span class="weight-300" id="i-label"></span></h2>
+<div class="axis">
+    <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
+    <div class="bar negative" id="bar-negative"><div class="text-wrapper" id="Negative"></div></div>
+    <div class="bar positive" id="bar-positive"><div class="text-wrapper" id="Positive"></div></div>
+    <!-- <img id="img-federal" src="value_images/federal.png" height="128pt"/> -->
+</div>
 
 <br><br>
 
@@ -166,8 +173,8 @@
         }
     }
 
-    leftArray = ["Dominionist","Collectivist","Pragmatist","Pacifist","Reductionist","Anarchist","Democrat","Secularist","Free Association","Globalist","Imperialist","Multiculturalist","Queer Liberation","Bioconservatist","Luddite","Post-work","Private Property"]
-    rightArray = ["Sentientist","Individualist","Dogmatist","Bellicist","Intersectionalist","Hierarchist","Vanguardist","Clericalist","Unitarian","Autarky","Anticolonialist","Supremacist","Cishet Essentialist","Transhumanist","Technophile","Labor Essentialist","Communal Property"]
+    leftArray = ["Dominionist","Collectivist","Pragmatist","Pacifist","Reductionist","Anarchist","Democrat","Secularist","Free Association","Globalist","Imperialist","Multiculturalist","Queer Liberation","Bioconservatist","Luddite","Post-work","Private Property","Negative Freedom"]
+    rightArray = ["Sentientist","Individualist","Dogmatist","Bellicist","Intersectionalist","Hierarchist","Vanguardist","Clericalist","Unitarian","Autarky","Anticolonialist","Supremacist","Cishet Essentialist","Transhumanist","Technophile","Labor Essentialist","Communal Property","Positive Freedom"]
 
     function setLabel(val,axis) {
         if (val >= 90) { 
@@ -246,6 +253,7 @@
     o  = getQueryVariable("o")
     p  = getQueryVariable("p")
     q  = getQueryVariable("q")
+    r  = getQueryVariable("r")
     a2 = 100-a;
     b2 = 100-b;
     c2 = 100-c;
@@ -263,6 +271,7 @@
     o2 = 100-o;
     p2 = 100-p;
     q2 = 100-q;
+    r2 = 100-r;
 
     setBarValue("Dominionist", a)
     setBarValue("Sentientist", a2)
@@ -298,6 +307,8 @@
     setBarValue("Labor Esentialist", p2)
     setBarValue("Private Property", q)
     setBarValue("Communal Property", q2)
+    setBarValue("Negative Freedom", r)
+    setBarValue("Positive Freedom", r2)
     
 
     document.getElementById("a-label").innerHTML = setLabel(a, 0)
@@ -317,6 +328,7 @@
     document.getElementById("o-label").innerHTML = setLabel(o, 14)
     document.getElementById("p-label").innerHTML = setLabel(p, 15)
     document.getElementById("q-label").innerHTML = setLabel(q, 16)
+    document.getElementById("q-label").innerHTML = setLabel(r, 17)
 
     ideology = ""
     ideodist = Infinity
@@ -339,6 +351,8 @@
         dist += Math.pow(Math.abs(ideologies[i].stats.ludd - o), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.work - p), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.priv - q), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.priv - r), 2)
+        
         if (dist < ideodist) {
             ideology = ideologies[i].name
             ideodist = dist
@@ -428,7 +442,11 @@
         img = document.getElementById("img-private")
         ctx.drawImage(img, 20, 2040, 100, 100)
         img = document.getElementById("img-communal")
-        ctx.drawImage(img, 680, 2040, 100, 100)
+        ctx.drawImage(img, 680, 2040, 100, 100
+        img = document.getElementById("img-negative")
+        ctx.drawImage(img, 20, 2160, 100, 100)
+        img = document.getElementById("img-positive")
+        ctx.drawImage(img, 680, 2160, 100, 100)
 
         ctx.fillStyle="#222222"
         ctx.fillRect(120, 130, 560, 80)
@@ -448,6 +466,7 @@
         ctx.fillRect(120, 1810, 560, 80)
         ctx.fillRect(120, 1930, 560, 80)
         ctx.fillRect(120, 2050, 560, 80)
+        ctx.fillRect(120, 2170, 560, 80)
         ctx.fillStyle="#ffeb3b"
         ctx.fillRect(120, 134, 5.6*a-2, 72)
         ctx.fillStyle="#f44336"
@@ -516,6 +535,8 @@
         ctx.fillRect(120, 134, 5.6*q-2, 72)
         ctx.fillStyle="#f44336"
         ctx.fillRect(682-5.6*q2, 134, 5.6*q2-2, 72)
+        ctx.fillStyle="#f44336"
+        ctx.fillRect(682-5.6*r2, 134, 5.6*r2-2, 72)
         ctx.font="700 80px Montserrat"
         ctx.textAlign="left"
         ctx.fillText("IDEOLOGUE", 20, 90)
@@ -558,7 +579,8 @@
         if (n2  > 20) {ctx.fillText(n2 + "%", 130, 1747.5)}
         if (o2 > 20) {ctx.fillText(o2 + "%", 130, 1867.5)}
         if (p2  > 20) {ctx.fillText(p2 + "%", 130, 1987.5)}
-        if (p2  > 20) {ctx.fillText(q2 + "%", 130, 2107.5)}
+        if (q2  > 20) {ctx.fillText(q2 + "%", 130, 2107.5)}
+        if (r2  > 20) {ctx.fillText(r2 + "%", 130, 2227.5)}
 
         ctx.font="300 30px Montserrat"
         ctx.fillText("ideologue.github.io", 780, 55)
@@ -580,6 +602,7 @@
         ctx.fillText(document.getElementById("o-label").innerHTML, 400, 1805)
         ctx.fillText(document.getElementById("p-label").innerHTML, 400, 1925)
         ctx.fillText(document.getElementById("q-label").innerHTML, 400, 2045)
+        ctx.fillText(document.getElementById("r-label").innerHTML, 400, 2165)
     }
     </script>
 </body>
