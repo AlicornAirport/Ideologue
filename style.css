@@ -79,6 +79,7 @@ img.center {
     display: block;
     margin: 1em auto;
     width: 20%;
+    height: 20%;
     min-width: 100pt;
 }
 .button {
