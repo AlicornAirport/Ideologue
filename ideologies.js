@@ -585,7 +585,7 @@ ideologies = [
             "mult": 60,
             "queer": 60,
             "work": 90,
-            "priv": 75,
+            "priv": 25,
         }
     },
               {
@@ -606,9 +606,73 @@ ideologies = [
             "queer": 0,
             "work": 100,
             "priv": 0,
+   }
+    },
+        {
+        "name": "Geoanarchism",
+        "stats": {
+            "dom": 46,
+            "coll": 29,
+            "prag": 49,
+            "red": 40,
+            "anarchy": 100,
+            "dem": 100,
+            "assoc": 100,
+            "mult": 60,
+            "queer": 50,
+            "work": 100,
+            "priv": 0,
         }
     },
-      {
+        {
+        "name": "Geolibertarianism",
+        "stats": {
+            "dom": 46,
+            "coll": 0,
+            "prag": 50,
+            "red": 40,
+            "anarchy": 70,
+            "dem": 70,
+            "assoc": 70,
+            "mult": 60,
+            "queer": 50,
+            "work": 100,
+            "priv": 0,
+    }
+    },
+        {
+        "name": "Social Georgism",
+        "stats": {
+            "dom": 46,
+            "coll": 40,
+            "prag": 60,
+            "red": 40,
+            "anarchy": 40,
+            "dem": 70,
+            "assoc": 60, 
+            "mult": 60,
+            "queer": 50,
+            "work": 100,
+            "priv": 0,
+        }
+    },
+        {
+        "name": "Georgism",
+        "stats": {
+            "dom": 46,
+            "coll": 30,
+            "prag": 60,
+            "red": 40,
+            "anarchy": 50,
+            "dem": 70,
+            "assoc": 60,
+            "mult": 60,
+            "queer": 50,
+            "work": 100,
+            "priv": 0,
+        }
+    },
+        {
         "name": "Caudillismo",
         "stats": {
             "dom": 85,
