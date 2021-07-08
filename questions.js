@@ -140,110 +140,110 @@ questions =
         ],
         [//1
             "There's a diplomatic solution to most conflict.",
-            "",
-            ""
+            "Military force should never be considered a viable option.",
+            "Violence only engenders more violence."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "There are situations and problems that can only be resolved through the use of force.",
+            "People should arm themselves for protection.",
+            "'Freedom is a constant struggle.'"
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Violence should be met with retribution.",
+            "Sabotage and riots are a valid tactic to ensure we are heard.",
+            "'A riot is the language of the unheard.'"
         ],
         [//-3
-            "",
-            "",
-            ""
+            "A nation (or group) should arm itself for protection.",
+            "Armed conflict is a valid solution to crisis situations.",
+            "People complicit in exploitation should not be spared the consequences."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Violence is sometimes the only way.",
+            "People who stand in the way of a better world should be removed. By force if necessary.",
+            "Change can only be brought about through revolt."
         ]],
     [[//Reductionist <-> Intersectionalist
         [//4
-            "",
-            "",
-            ""
+            "The support of racist/misogynist/etc. systems is the unfortunate side effect of legitimate grievances among the supporters.",
+            "All the categories and identities people label themselves with only serve to divide us.",
+            "White privilege, cis privilege, etc. do not exist."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Affirmative action and similar programs are actively harmful.",
+            "The patriarchy / compulsive cisheteronormativity / white hegemony are nothing but boogeymen.",
+            "A white cishet working-class man faces the same challenges (or challenges of the same magnitude) as, say, a Dinéh nonbinary working-class person."
         ],
         [//2
-            "",
-            "",
-            ""
+            "In the process of solving class inequality, all other inequalities will be eliminated or reduced.",
+            "Any distinct focus on racial and gender injustice undermines the greater political goal of working-class unity.",
+            "Insisting that race is real is racist, in and of itself."
         ],
         [//1
-            "",
-            "",
-            ""
+            "People talk about identity oppression too much.",
+            "All (racial/gender/etc.) identities should have the same amount of a say in all matters.",
+            "There is nothing particular/special about the oppression faced by POC / GSM / immigrants."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Social consructs have very real impacts on people's lives.",
+            "'If we can't see race, we can't see racism.'",
+            "We should take care of how our actions impact marginalized groups."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "We should focus on what we have in common, but what makes us different is just as important.",
+            "The effects of multiple forms of discrimination (such as racism, sexism, and classism) combine and overlap.",
+            "There is no one-size-fits-all. Geography, history, and culture should be considered in any political proposal."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Feminism, POC rights movements, queer movements, etc. are a fundamental part of the struggle for a better world.",
+            "The experiences and perspectives of marginalized peoples are unique and should be listened to.",
+            "The intersection of a person's identities and experiences is essential to understanding them."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "All forms of inequality (e.g., class, race, gender, etc.) are inextricably linked and equally worthy of addressing.",
+            "We can never be truly free/equal until steps are taken to remedy historical inequalities.",
+            "All the evils of our society are branches of the same nasty tree. Therefore, focusing on only one is of no use."
         ]],
     [[//Anarchist <-> Hierarchist
         [//4
-            "",
-            "",
-            ""
+            "All hierarchy is inherently unjust, exploitative, or coercive.",
+            "Hierarchy is arbitrary and has no real justification.",
+            "Things were fairer before people organized into formal governments."
         ],
         [//3
-            "",
-            "",
-            ""
+            "There is no need for government.",
+            "Direct democracy by consensus (instead of institutionalized representative democracy or other systems) is ideal.",
+            "It is our duty to disobey/ignore unjust laws."
         ],
         [//2
-            "",
-            "",
-            ""
+            "No authority should be left unquestioned, or unexamined.",
+            "Categorizing people into 'leaders' and 'followers' is actively harmful.",
+            "Rights are inherent to a human being, not granted by the state."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Some crimes are harmless, and should not be crimes.",
+            "Laws can never be completely fair.",
+            "People would benefit from looser laws."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "The main purpose of education is to create productive members of society.",
+            "Anarchy = chaos, disorder, and violence.",
+            "Police are necessary, and even good for a community."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "People are aimless without leadership.",
+            "Humans naturally gravitate towards authority, and want to follow it.",
+            "Human nature should be controlled or suppressed in order to achieve peace."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Maintaining law and order should be a priority.",
+            "If all institutions and authorities were to stop existing, people would turn to chaos and violence.",
+            "Institutions and hierarchy exist for a reason, and are inherent to humanity."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Society would fall apart without hierarchy.",
+            "Authority should be respected no matter what.",
+            "Authority is necessary to keep a society functional."
         ]],
     [[//Democrat <-> Vanguardist
         [//4
