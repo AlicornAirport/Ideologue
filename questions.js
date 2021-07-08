@@ -43,106 +43,103 @@ questions =
     [[//Collectivist <-> Individualist
         [//4
             "What matters most about a person is the impact they have on other people.",
-            "People are defined by the society around them, and the social groups they belong to.",
+            "The wellbeing of others is just as important as - and is a factor in - my own wellbeing.",
             "The effect the decisions one makes have on others should always be the main decisive factor."
         ],
         [//3
-            "The needs of the many outweigh the needs of the individual.",
+            "Communities and collectives should have more impact on society than powerful individuals.",
             "No one is self-made; we are all dependent on and shaped by our community.",
-            "Crediting only individuals is akin to lying; anything achieved by a group was achieved by everyone who contributed."
+            "Crediting only individuals is akin to lying; anything achieved by a group is achieved by everyone who contributed."
         ],
         [//2
-            "",
-            "",
-            ""
-            
+            "Everyone should give back to their community.",
+            "People are defined by the society around them, and the social groups they belong to.",
+            "People should seek to improve others' situation, even to their own inconvenience."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Humans are inherently communitary or even communal creatures.",
+            "'It takes a village to raise a child.'",
+            "Community is essential to human development."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "People who do the most deserve special recognition, separate from anyone else who contributed.",
+            "Someone's individual character has a lot more weight on who they are than their environment does.",
+            "People who put in the effort succeed regardless of outward support."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "People should deal with their own problems.",
+            "I've gotten to where I am completely on my own.",
+            "'Me and my family first, everyone else last.'"
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Humans are inherently selfish/self-centered.",
+            "Competition is a fundamental drive of humanity.",
+            "People are poor/unsuccessful/marginalized because of their own personal failings."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Exceptional individuals don't need other people to achieve great things.",
+            "History is shaped mostly by a few exceptional people.",
+            "Individual achievements are the most important part of a person's worth."
         ]],
     [[//Pragmatist <-> Dogmatist
         [//4
-            "",
-            "",
-            ""
+            "An ideology is useless unless it can get things done.",
+            "We should define social or economic goals, not by what is ideal, but by what can be realistically achieved.",
+            "Ideologies and philosophies should be flexible in every way possible in order to achieve their goals."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Most ideas for achieving a better world are impractical pipe-dreams.",
+            "Praxis is more important than theory.",
+            "Ideological purity is useless."
         ],
         [//2
-            "",
-            "",
-            ""
-            
+            "We should ally with different, or even opposite ideologies to achieve common goals.",
+            "No ideal version of a plan works in reality.",
+            "Most political or social ideologies are only relevant to the context they were first created in."
         ],
         [//1
-            "",
-            "",
-            ""
+            "New ideas and data should be incorporated into systems of government, economy, and ideology as soon as available.",
+            "Ideologies and theories must evolve, lest they become irrelevant.",
+            "We should modify what we believe according to its effectiveness."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "It is possible for a sociopolitical ideology to *always* be relevant to the situation at hand.",
+            "Theory is just as important as praxis.",
+            "Care should be taken to accurately present one's values and ideas, even at the expense of them losing perceived viability."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Staying true to our principles is more important than achieving small advances in our goals.",
+            "It's important to be as detailed as possible when describing one's ideology and position.",
+            "I would rather work with someone who truly holds the same values I do, but practices little, than with someone who is an outstanding practicant of only some of those values."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Maintaining clear purpose and goals is more important than keeping an ideology relevant.",
+            "We should not collaborate with opposing ideologies for any reason.",
+            "Nothing can excuse a betrayal of one's ideals (even a small one)."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Ideals (how things should be) must be our ultimate goal, even if they're impossible to fully achieve.",
+            "There already exists an ideology that could lead to utopia if applied correctly, unmodified.",
+            "Any praxis that doesn't fit the textbook definition of an ideology should be considered a separate ideology."
         ]],
     [[//Pacifist <-> Bellicist
         [//4
-            "",
-            "",
-            ""
+            "Violence is never justified.",
+            "All fighting is inherently cruel.",
+            "Any revolution or upheaval ends in pain and atrocities."
         ],
         [//3
-            "",
-            "",
-            ""
+            "The 'fight' for our rights should remain metaphorical, not physical.",
+            "Protests should remain non-violent, no matter what.",
+            "Aggression should be met with pacifism."
         ],
         [//2
-            "",
-            "",
-            ""
-            
+            "Violent retribution of any kind is useless.",
+            "Change is less of a fight and more of a construction.",
+            "Weapons should be either tightly controlled or erradicated completely." 
         ],
         [//1
-            "",
+            "There's a diplomatic solution to most conflict.",
             "",
             ""
         ],
@@ -181,7 +178,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -223,7 +219,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -265,7 +260,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -307,7 +301,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -391,7 +384,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -433,7 +425,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -475,7 +466,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -517,7 +507,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -559,7 +548,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -601,7 +589,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -643,7 +630,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -685,7 +671,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
@@ -727,7 +712,6 @@ questions =
             "",
             "",
             ""
-            
         ],
         [//1
             "",
