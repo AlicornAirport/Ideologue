@@ -288,44 +288,44 @@ questions =
         ]],
      [[//Secularist <-> Clericalist
         [//4
-            "",
-            "",
-            ""
+            "In an ideal world, religion would either be abolished or fade out completely.",
+            "If you're a good person based on a system of supernatural reward and punishment, you're not a good person at all",
+            "Religion is like opium: addictive pain relief."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Any religious system of governance or organization is doomed to either become cruel or completely dysfunctional.",
+            "Decentralized, personal spirituality is the only valid form of 'worship'.",
+            "Religious organizations should have no special protections or excemptions, ever."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Freedom from religion is more important than freedom of religion.",
+            "Churches and similar organizations do more harm than good.",
+            "Religion and its mandates should be kept as far away from power as possible."
         ],
         [//1
-            "",
-            "",
-            ""
+            "It is evil to require religious service attendance in exchange for charity or help.",
+            "Persecution by religious authorities is nothing more than the violent preservation of power.",
+            "The most important part of religion is community and ritual. This can and should be replaced with non-religious alternatives."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Charities or outreach can, and should make an effort to spread divine truth.",
+            "Whenever a person is struggling, they should reach out to their religious community first.",
+            "Missionaries are a force for good."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "The wisest people are usually religious leaders.",
+            "Certain texts (or *a* certain text) contain(s) the undisputable truth about the universe.",
+            "Society is worse now, partly (or completely) due to people abandoning religion."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "All of existence follows a supernatural plan.",
+            "It is impossible to have a truly successful community without religious involvement.",
+            "Religious leaders should either be heavily represented in positions of authority, or be the government itself."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "There is only one true religion / spirituality.",
+            "The world would be better, or even perfect, if we just let the divine guide us.",
+            "Morality should always have a Divine basis."
         ]],
     [[//Free Associate <-> Unitarian
         [//4
