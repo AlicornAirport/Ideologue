@@ -323,51 +323,51 @@ questions =
             "Religious leaders should either be heavily represented in positions of authority, or be the government itself."
         ],
         [//-4
-            "There is only one true religion / spirituality.",
+            "The separation of church and state is harmful.",
             "The world would be better, or even perfect, if we just let the divine guide us.",
             "Morality should always have a Divine basis."
         ]],
     [[//Free Associate <-> Unitarian
         [//4
-            "",
-            "",
-            ""
+            "Valid communities and/or nations are formed directly by the people in them; any government or capital involvement is coercion.",
+            "Individuals should be mostly or completely self-governing.",
+            "Anyone (or any area) should be able to secede or declare independence."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Humanity is past the need for organized nations / states.",
+            "Corporations and institutionalized labor (including government jobs) are inherently oppressive, or at least coercive.",
+            "Loosely associated local governments are better than a structured union."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Local governments (or the people of a community/locality) should have a greater say over their laws than a federal government.",
+            "Communities know what's best for themselves better than any federal or national government ever could.",
+            "Local culture and ideals should come before national or global ones."
             
         ],
         [//1
-            "",
-            "",
-            ""
+            "A federal government is harmful to small localities or minority communities.",
+            "People should think of themselves as citizens of their nation, not their state.",
+            "My community first, my locality second, the country last."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Local governments are mostly useless.",
+            "Legislation should never be modified or applied differently to cerain communities or localities.",
+            "Lack of national unity is the worst possible thing for a country."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Power should be centralized as much as possible.",
+            "Countries should not have subdivisions (states, provinces, etc.) at all.",
+            "The full extent of the law should be enforced, unchanged, in every part of a country."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Subdivisions should not be able to exempt from national laws.",
+            "Nothing good can come from autonomous zones within (or without) a country.",
+            "A government only needs a central authority and an enforcement arm."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Unitary national governments are preferable to any federation",
+            "One country. One government. One law.",
+            "People should be loyal to their country, not their community."
         ]],
     [[//Globalist <-> Autarkist
         [//4
@@ -458,7 +458,7 @@ questions =
             ""
         ],
         [//3
-            "",
+            "No culture is superior to others.",
             "",
             ""
         ],
