@@ -211,7 +211,7 @@ questions =
             "Things were fairer before people organized into formal governments."
         ],
         [//3
-            "There is no need for government.",
+            "No person or body should hold power over an individual or community.",
             "Direct democracy by consensus (instead of institutionalized representative democracy or other systems) is ideal.",
             "It is our duty to disobey/ignore unjust laws."
         ],
@@ -247,44 +247,44 @@ questions =
         ]],
     [[//Democrat <-> Vanguardist
         [//4
-            "",
-            "",
-            ""
+            "All people should be able to have a direct voice (or vote) in every issue.",
+            "Majority concensus is the best form of decision-making.",
+            "People should have a say in every system they participate in, not just government."
         ],
         [//3
-            "",
-            "",
-            ""
+            "The members of a community know what's best for them.",
+            "Major social and political changes should have grassroots support.",
+            "Workplaces (if there are any) should be democratically-controlled and -organized."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Democracy should be one of the ideals everyone strives towards.",
+            "Direct democracy is the best form of government we have.",
+            "The fewer 'layers' of institution between the people and collective decision-making, the better."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Even if people don't vote directly on every issue, they should at least vote for who represents them.",
+            "A vote is a vote, and all votes should be counted exactly the same.",
+            "Elected representatives voting for legislation is a valid - and even good - form of government."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Votes should be weighted by how much any given decision affects each voter.",
+            "It's better to have elected representatives make most of the decisions.",
+            "People should be able to delegate their votes."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "The more educated on a subject a person is, the more their vote should count.",
+            "Only educated people with a proven track record should be able to be elected.",
+            "Democracy belongs in government only."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Democracy is handicapped by the inability of the masses to consistently make good decisions.",
+            "Experts should make most decisions, since they know what's best better than the average person.",
+            "Voting rights should be earned, not guaranteed."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "People in power have a better perspective, and should therefore be able to make decisions without consulting anyone else.",
+            "Power should be concentrated in the hands of the best and brightest.",
+            "Democracy is just a fancy word for mob rule."
         ]],
      [[//Secularist <-> Clericalist
         [//4
