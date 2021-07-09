@@ -412,7 +412,7 @@ questions =
         ]],
     [[//Imperialist <-> Anticolonialist
         [//4
-            "",
+            "Colonialism was a civlizing force throughout the world.",
             "",
             ""
         ],
