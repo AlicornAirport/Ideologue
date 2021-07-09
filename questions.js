@@ -68,12 +68,12 @@ questions =
         ],
         [//-2
             "People should deal with their own problems.",
-            "I've gotten to where I am completely on my own.",
+            "Competition is a fundamental drive of humanity.",
             "'Me and my family first, everyone else last.'"
         ],
         [//-3
             "Humans are inherently selfish/self-centered.",
-            "Competition is a fundamental drive of humanity.",
+            "I've gotten to where I am completely on my own.",
             "People are poor/unsuccessful/marginalized because of their own personal failings."
         ],
         [//-4
@@ -135,7 +135,7 @@ questions =
         ],
         [//2
             "Violent retribution of any kind is useless.",
-            "Change is less of a fight and more of a construction.",
+            "Change is less of a fight and more of a construction effort.",
             "Weapons should be either tightly controlled or erradicated completely." 
         ],
         [//1
@@ -156,7 +156,7 @@ questions =
         [//-3
             "A nation (or group) should arm itself for protection.",
             "Armed conflict is a valid solution to crisis situations.",
-            "People complicit in exploitation should not be spared the consequences."
+            "People complicit in exploitation should not be spared the consequences of retribution."
         ],
         [//-4
             "Violence is sometimes the only way.",
@@ -165,7 +165,7 @@ questions =
         ]],
     [[//Reductionist <-> Intersectionalist
         [//4
-            "The support of racist/misogynist/etc. systems is the unfortunate side effect of legitimate grievances among the supporters.",
+            "The support of racist/misogynist/etc. systems is the unfortunate side effect of legitimate grievances among their supporters.",
             "All the categories and identities people label themselves with only serve to divide us.",
             "White privilege, cis privilege, etc. do not exist."
         ],
@@ -180,7 +180,7 @@ questions =
             "Insisting that race is real is racist, in and of itself."
         ],
         [//1
-            "People talk about identity oppression too much.",
+            "People talk about identity / oppression too much.",
             "All (racial/gender/etc.) identities should have the same amount of a say in all matters.",
             "There is nothing particular/special about the oppression faced by POC / GSM / immigrants."
         ],
@@ -238,7 +238,7 @@ questions =
         [//-3
             "Maintaining law and order should be a priority.",
             "If all institutions and authorities were to stop existing, people would turn to chaos and violence.",
-            "Institutions and hierarchy exist for a reason, and are inherent to humanity."
+            "Institutions and hierarchy exist for a reason, and/or are inherent to humanity."
         ],
         [//-4
             "Society would fall apart without hierarchy.",
@@ -254,7 +254,7 @@ questions =
         [//3
             "The members of a community know what's best for them.",
             "Major social and political changes should have grassroots support.",
-            "Workplaces (if there are any) should be democratically-controlled and -organized."
+            "Workplaces (if there are any) should be democratically controlled and organized."
         ],
         [//2
             "Democracy should be one of the ideals everyone strives towards.",
@@ -371,44 +371,44 @@ questions =
         ]],
     [[//Globalist <-> Autarkist
         [//4
-            "",
-            "",
-            ""
+            "Humanity would benefit from a united world government.",
+            "We should care just as much for people outside our community (or even our country) as we do for those in it.",
+            "Borders should be abolished."
         ],
         [//3
-            "",
-            "",
-            ""
+            "International trade should be ubiquitous, and open to all.",
+            "Communities can and should be not only local, but international.",
+            "Nations should co-operate whenever possible."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Countries in regional unions (like the EU) are better off than countries alone.",
+            "A more interconnected world is a better world.",
+            "All nations should be involved in making the world a better place."
         ],
         [//1
-            "",
-            "",
-            ""
+            "People should consider themselves citizens of the world.",
+            "We should have a new international language, taught as a second language throughout the world.",
+            "Inter-country divisions are one of the worst things humanity has come up with."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "My country's involvement with the 'international community' should be very limited.",
+            "Nations defeated in war should bend to the will of the victors.",
+            "Our citizens should be prioritized before we try to benefit anyone else."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Countries have no duty to care about people that aren't their citizens.",
+            "My nation should only cooperate if it benefits us more than anyone else.",
+            "Countries shouldn't be subject to international law."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "A nation should put its own goals over the wellbeing of people outside it.",
+            "No borders, no country.",
+            "A nation should protect its industries and its economy through heavy tariffs."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "There should be no international trade.",
+            "Every nation should only concern itself with what happens within its borders.",
+            "Everything consumed in a nation should be produced there."
         ]],
     [[//Imperialist <-> Anticolonialist
         [//4
