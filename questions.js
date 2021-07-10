@@ -413,45 +413,45 @@ questions =
     [[//Imperialist <-> Anticolonialist
         [//4
             "Colonialism was a civlizing force throughout the world.",
-            "",
-            ""
+            "Aboriginal peoples have no right to land or resources that their ancestors once owned.",
+            "The awfulness of the colonial age for BIPOC is horribly overblown."
         ],
         [//3
-            "",
-            "",
-            ""
+            "We should oppose - or even depose - regimes that don't align with our interests or values abroad.",
+            "Things belong to whoever's strong enough to take them.",
+            "The descendants of slaves have it better than if their ancestors had stayed in Africa."
         ],
         [//2
-            "",
-            "",
-            ""
+            "First-world countries know what's best for the rest of the world.",
+            "'Missionaries' who spread a 'first-world' culture are a great idea.",
+            "Slavery and Native genocide are over and have no effects on the present day descendants of the victims."
         ],
         [//1
-            "",
-            "",
-            ""
+            "All people should be educated on Western Philosophy and the Enlightenment approach to science.",
+            "Developing countries and disadvantaged communities need to be carefuly guided towards the right decisions.",
+            "People from certain parts of the world are just smarter, or all-around better."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Traditions outside of the 'western' conception of science have unique, practical knowledge to offer.",
+            "The lingering (and current) effects of colonization and supremacist ideology should be addressed.",
+            "Both indigenous rights and culture are ignored and/or erased too often."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "'Western' countries themselves have created the conditions that drive people to immigrate to them.",
+            "Ecological conservation is often used as an excuse for imperialism, denying developing countries and communities access to the means by which 'developed' countries attained their current quality of life, while said 'developed' countries refuse to change.",
+            "Imperialism and colonialism are still an overwhelming majority of foreign policy, and should be actively fought."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "First-world countries never diminished their exploitation and poverty, they just outsourced it.",
+            "Previously colonized peoples should rediscover and build upon their culture.",
+            "Colonialism, imperialism, and white supremacy are living ideologies that still shape the world and must be dismantled."
         ],
         [//-4
-            "",
+            "Colonialist powers should have to give their victims (or their descendants) reparations until said victims have equal socioeconmic and developmental standing to the colonizers.",
             "",
             ""
         ]],
-    [[//Multiculturalist <-> Assimilationist
+    [[//Multiculturalist <-> Supremacist
         [//4
             "",
             "",
