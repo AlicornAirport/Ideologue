@@ -438,18 +438,18 @@ questions =
         ],
         [//-2
             "'Western' countries themselves have created the conditions that drive people to immigrate to them.",
-            "Ecological conservation is often used as an excuse for imperialism, denying developing countries and communities access to the means by which 'developed' countries attained their current quality of life, while said 'developed' countries refuse to change.",
+            "The indigenous languages of colonized areas should be considered official, and taught to the people living there.",
             "Imperialism and colonialism are still an overwhelming majority of foreign policy, and should be actively fought."
         ],
         [//-3
             "First-world countries never diminished their exploitation and poverty, they just outsourced it.",
             "Previously colonized peoples should rediscover and build upon their culture.",
-            "Colonialism, imperialism, and white supremacy are living ideologies that still shape the world and must be dismantled."
+            "Ecological conservation is often used as an excuse for imperialism, denying developing countries and communities access to the means by which 'developed' countries attained their current quality of life, while said 'developed' countries refuse to change."
         ],
         [//-4
             "Colonialist powers should have to give their victims (or their descendants) reparations until said victims have equal socioeconmic and developmental standing to the colonizers.",
-            "",
-            ""
+            "Colonialism, imperialism, and white supremacy are living ideologies that still shape the world and must be dismantled.",
+            "Cultural genocide is a real form of genocide, still happening all over the world."
         ]],
     [[//Multiculturalist <-> Supremacist
         [//4
