@@ -665,37 +665,37 @@ questions =
         [//3
             "All motorized transport should be public.",
             "All healthcare should be completely public and free at the point of use, even 'non-essential' care.",
-            "'If we wait for the government, it'll be too late. If we act as individuals it'll be too little. If we act as communities, it might just be enough.'"
+            "I support Squatters' Rights."
         ],
         [//2
-            "Utilities (water, power, roads, etc.) should be publically (or communally) owned.",
+            "'Hell is a great banquet where no one can bring food near their own mouth. Heaven is the same, except they feed each other.'",
             "Renting is inherently predatory; the people living in a place should own it.",
-            ""
+            "Open community gardens are a viable solution to food scarcity and disengagement."
         ],
         [//1
-            "",
-            "",
-            ""
+            "'If we wait for the government, it'll be too late. If we act as individuals it'll be too little. If we act as communities, it might just be enough.'",
+            "Utilities (water, power, roads, etc.) should be publically (or communally) owned.",
+            "Public libraries are one of the best ideas humanity's ever had."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Private education is superior to public schools.",
+            "Investment is a valid way to make a living.",
+            "Market competition consistently produces the best version of products and services."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Utilities (water, power, roads, etc.) would provide a better service if they were privatized.",
+            "If no one can own more than others, the system is unfair.",
+            "Copyright is a good thing."
         ],
         [//-3
             "The justice system should be mostly or completely privatized.",
-            "'What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others.'",
-            ""
+            "'What is common to many is taken least care of, for all men [sic] have greater regard for what is their own than for what they possess in common with others.'",
+            "If there was no capitalism, people would create it."
         ],
         [//-4
             "Without monetary reward / intellectual property, people wouldn't have sufficient incentive to invent or create.",
-            "",
-            ""
+            "Private prisons are an excellent idea that relieves people from paying for criminals' lives.",
+            "If people are unhappy with their job, they should just start their own business."
         ]],
     [[//Negative Freedoms <-> Positive Freedoms
         [//4
