@@ -576,85 +576,85 @@ questions =
         ]],
     [[//Luddism <-> Technophilia
         [//4
-            "",
-            "",
-            ""
+            "An ideal society would only have pre-Industrial technology.",
+            "Technological development has gone too far and should be stopped.",
+            "We should return to a more primitive lifestyle."
         ],
         [//3
-            "Every new era of techonology is a disaster for the human race.",
+            "Every new era of techonology is a bigger disaster for the human race.",
             "Alienation from nature / our natural lifestyle is the source for a lot of today's problems.",
-            ""
+            "Science is overrated and should not be a factor in our decision-making."
         ],
         [//2
-            "Genetic modification of food crops should not be a thing.",
-            "",
-            ""
+            "Technological 'progress' isn't progress at all.",
+            "Technology creates various new problems for every issue it solves.",
+            "Traditional methods of doing things are almost always better."
         ],
         [//1
-            "",
-            "",
-            ""
+            "We should reconsider our dependence on technology.",
+            "Genetic modification of food crops should not be a thing.",
+            "People would be happier with fewer technology in their lives."
         ],
         [//-1
             "Evolution is a fact.",
-            "",
-            ""
+            "Our current level of technology is beneficial to humanity.",
+            "We should continue to progress scientifically."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Science has vastly improved our lives in every meaningful way.",
+            "We should strive towards a more interconnected future.",
+            "The internet is an amazing thing that has done far more good than harm."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Science and research should be fully funded and supported, even if it loses money or has no immediate benefit for the people funding it.",
+            "Science and technology make us better.",
+            "The creation of new technology is a fundamental part of human activity."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Technology holds the solution for most problems.",
+            "Humanity should continue to explore space for the sake of exploration.",
+            "Humanity has only come this far because of technology."
         ]],
     [[//Post-Work <-> Labor Essentialist
         [//4
-            "",
-            "",
-            ""
+            "The goal of automation should be to completely eliminate the need to work to supply basic needs.",
+            "People should be completely free to pursue their interests (including having all their needs met), regardless of whether those interests are deemed 'productive'.",
+            "Everyone should be guaranteed enough income to meet all their needs (both essential physical needs and things like excercise, creative expression, etc.), or just be guaranteed the meeting of those needs."
         ],
         [//3
-            "",
-            "",
-            ""
+            "People should only do things out of passion or interest, not the need for income.",
+            "Laziness can be a source of intelligence, technology, progress.",
+            "The structuring of labor (fixed job positions and responsibilities, wages, the emphasis on productivity) is inherently harmful."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Labor should be optional and voluntary.",
+            "'Jobs' turn potentially enjoyable tasks into meaningless chores.",
+            "The current necessity of work robs us of meaningful activity."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Most workers will always be dissatisfied with work.",
+            "Most jobs are bullshit jobs.",
+            "Categorizing people as 'workers' is dehumanizing and reductive."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "If people didn't have to work, they would be bored most of the time.",
+            "There are no ideal jobs, but for the majority of people, there is a job they could enjoy for the rest of their lives.",
+            "Being 'anti-work' is a stupid/lazy position."
         ],
         [//-2
-            "Being 'anti-work' is a stupid/lazy position.",
-            "",
-            ""
+            "Rest and recreation have the function of providing us with energy and relaxation so we can work.",
+            "The automation of labor would result in a crisis or even collapse, even in a society where people have their basic needs guaranteed.",
+            "Any type of aid or welfare that doesn't encourage people to find work at some point is harmful."
         ],
         [//-3
             "Without work, people would spend most of their time on aimless idling.",
-            "",
-            ""
+            "Work provides us with fulfillment.",
+            "All people should contribute to society through labor as much as they can."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Jobs should be preserved and created, even when the means to completely eliminate the need for them exist.",
+            "There is inherent worth in labor, even so-called 'bullshit jobs'.",
+            "Work is an essential part of being human."
         ]],
      [[//Communal Property <-> Private Property
         [//4
