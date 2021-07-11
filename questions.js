@@ -36,7 +36,7 @@ questions =
             "Using, consuming, or producing any product made from a sentient being is unethical."
         ],
         [//-4
-            "It is unacceptable for human actions to lead to the destruction or extinction of any part of an ecosystem.",
+            "I advocate for the rights and well-being of all sentient beings, whether artificial intellects, humans, posthumans, or non-human animals",
             "Animal agriculture should be completely abolished.",
             "We can never achieve true liberation until we consider non-human sentient beings as worthy of the same."
         ]],
@@ -535,44 +535,44 @@ questions =
         ]],
     [[//Bioconservative <-> Transhumanist
         [//4
-            "",
-            "",
-            ""
+            "Biohacking and self-modification are an abomination.",
+            "'Transhumanism' is just chrome-plated eugenics.",
+            "We shouldn't mess with the functioning of the human body at all."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Going beyond the natural capabilities of the human body is unacceptable.",
+            "Geneting engineering is playing G-d and should be stopped.",
+            "Prosthetics that do more than just replace a body part's basic function should never be produced."
         ],
         [//2
             "The risk of modifying the human body (or the human genome) far outweighs any possible benefits.",
-            "",
-            ""
+            "Artificial intelligence should never be integrated into a human mind.",
+            "People being ablo to modify their bodies and/or consciousness at will will inevitably result in societal collapse."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Genetic customization and body enhancements will only make society more unfair.",
+            "Genetic engineering should be confined to food and microorganisms.",
+            "There is no justification for 'designer babies'."
         ],
         [//-1
             "Getting past physical limitations through technology would be ideal.",
-            "",
-            ""
+            "It would be a good thing if people could live many times their natural lifespan.",
+            "People should be able to have children through cloning, in-vitro insemination, and/or artifical wombs."
         ],
         [//-2
             "Whether something is 'natural' or not is irrelevant to whether it's good.",
-            "",
-            ""
+            "Not only should we abolish gender, we should eliminate biological sex, or at least make it modular/easily modifiable.",
+            "CRISPR and similar genetic modification technologies are unequivocally a good thing."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "People have a right to use technology to more fully control the function and composition of their bodies.",
+            "I would consider having my mind uploaded to computers if it was the only way I could continue as a conscious person.",
+            "Humanity should consider creating artificial sophonts (life with a human-like intellect or above), whether through computing, bioengineering, or 'uplift'."
         ],
         [//-4
             "Genetic modification of human beings would be one of humanity's greatest, most beneficial achievements.",
-            "",
-            ""
+            "People should be able to modify their bodies in any way they want, even just for fun or aesthetics.",
+            "Open-source biological parts, body mods, and biohacking are amazing things everybody should be able to use."
         ]],
     [[//Luddism <-> Technophilia
         [//4
