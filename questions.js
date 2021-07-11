@@ -83,7 +83,7 @@ questions =
         ]],
     [[//Pragmatist <-> Dogmatist
         [//4
-            "An ideology is useless unless it can get things done.",
+            "Opportunism is a valid strategy to advance our goals.",
             "We should define social or economic goals, not by what is ideal, but by what can be realistically achieved.",
             "Ideologies and philosophies should be flexible in every way possible in order to achieve their goals."
         ],
@@ -94,8 +94,8 @@ questions =
         ],
         [//2
             "We should ally with different, or even opposite ideologies to achieve common goals.",
-            "No ideal version of a plan works in reality.",
-            "Most political or social ideologies are only relevant to the context they were first created in."
+            "No radical idea is fully viable; proposals must account for compromises.",
+            "'The ends justify the means.'"
         ],
         [//1
             "New ideas and data should be incorporated into systems of government, economy, and ideology as soon as available.",
@@ -181,7 +181,7 @@ questions =
         ],
         [//1
             "People talk about identity / oppression too much.",
-            "All (racial/gender/etc.) identities should have the same amount of a say in all matters.",
+            "We should focus on present equality of opportunity, not equality of outcome or making up for past inequalities.",
             "There is nothing particular/special about the oppression faced by POC / GSM / immigrants."
         ],
         [//-1
@@ -227,7 +227,7 @@ questions =
         ],
         [//-1
             "The main purpose of education is to create productive members of society.",
-            "Anarchy = chaos, disorder, and violence.",
+            "A lot of society's problems would be solved by a large, efficient government.",
             "Police are necessary, and even good for a community."
         ],
         [//-2
@@ -241,9 +241,9 @@ questions =
             "Institutions and hierarchy exist for a reason, and/or are inherent to humanity."
         ],
         [//-4
-            "Society would fall apart without hierarchy.",
-            "Authority should be respected no matter what.",
-            "Authority is necessary to keep a society functional."
+            "Society would fall apart without well-defined leadership.",
+            "Authority should be respected, even if we disagree with it / criticize it.",
+            "A State is necessary to keep a society functional."
         ]],
     [[//Democrat <-> Vanguardist
         [//4
@@ -325,7 +325,7 @@ questions =
         [//-4
             "The separation of church and state is harmful.",
             "The world would be better, or even perfect, if we just let the divine guide us.",
-            "Morality should always have a Divine basis."
+            "People cannot be moral without religion (or a relationship with the divine)."
         ]],
     [[//Free Associate <-> Unitarian
         [//4
@@ -356,11 +356,11 @@ questions =
         ],
         [//-2
             "Power should be centralized as much as possible.",
-            "Countries should not have subdivisions (states, provinces, etc.) at all.",
+            "Subdivisions should not be able to exempt from national laws.",
             "The full extent of the law should be enforced, unchanged, in every part of a country."
         ],
         [//-3
-            "Subdivisions should not be able to exempt from national laws.",
+            "Countries should not have subdivisions (states, provinces, etc.) at all.",
             "Nothing good can come from autonomous zones within (or without) a country.",
             "A government only needs a central authority and an enforcement arm."
         ],
@@ -371,7 +371,7 @@ questions =
         ]],
     [[//Globalist <-> Autarkist
         [//4
-            "Humanity would benefit from a united world government.",
+            "Humanity would benefit from the total abolition of individual states/countries.",
             "We should care just as much for people outside our community (or even our country) as we do for those in it.",
             "Borders should be abolished."
         ],
@@ -397,12 +397,12 @@ questions =
         ],
         [//-2
             "Countries have no duty to care about people that aren't their citizens.",
-            "My nation should only cooperate if it benefits us more than anyone else.",
+            "Dangerous ideologies that threaten our nation and our values should be fought across the globe, not just domestically.",
             "Countries shouldn't be subject to international law."
         ],
         [//-3
             "A nation should put its own goals over the wellbeing of people outside it.",
-            "No borders, no country.",
+            "A country with no borders will quickly fall apart.",
             "A nation should protect its industries and its economy through heavy tariffs."
         ],
         [//-4
@@ -453,85 +453,85 @@ questions =
         ]],
     [[//Multiculturalist <-> Supremacist
         [//4
-            "",
-            "",
-            ""
+            "All cultures have equal value, and are capable of meshing together to produce something better than the sum of its parts.",
+            "All cultures deserve equal respect, even if some of their individual values are harmful.",
+            "The best possible society is as multicultural and pluralistic as possible."
         ],
         [//3
-            "No culture is superior to others.",
-            "",
-            ""
+            "I recognize that my culture has given me certain subjective biases and viewpoints.",
+            "There's nothing universal in universalism; everything is conceived from within a particular cultural context",
+            "Monoculturalism (especially enforced monoculturalism) is damaging to a society."
         ],
         [//2
-            "",
-            "",
-            ""
+            "All cultures have much to learn from each other.",
+            "Immigration has an overall positive effect on my nation.",
+            "Precolonial civilizations were more advanced in some ways than the civilizations that colonized them."
         ],
         [//1
-            "",
-            "",
-            ""
+            "No culture is superior to others.",
+            "No culture is 'pure' or free of outside influence and cultural exchange.",
+            "A diversity of cultural perspectives leads to better outcomes."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "Cultural clashes are inevitable.",
+            "People are too sensitive/strict about respecting other cultures.",
+            "Culture mixing doesn't necessarily lead to improvement."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "If we accept immigrants within our borders, they should completely assimilate into our culture.",
+            "Multiculturalism is simply unrealistic.",
+            "Preserving the languages and traditions of immigrants and precolonial peoples is unnecessary."
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Some nations (or communities) are underdeveloped / poor due to their culture / values.",
+            "Indigenous traditional practices are not and never were real science or medicine.",
+            "The dominant culture is necessarily the best culture."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Real civilization has a single point of origin; everyone else just copied them.",
+            "My race and/or my culture is obviously superior to all others.",
+            "My culture is harmfully diluted by mixing with other cultures."
         ]],
     [[//Queer Liberation <-> Bioessentialist
         [//4
-            "",
-            "",
-            ""
+            "Gender and sexuality are both spectrums, with very few people actually falling on the extreme ends.",
+            "The first Pride was a riot; let's keep it that way.",
+            "An ideal society would be genderless."
         ],
         [//3
-            "",
-            "",
-            ""
+            "It’s perfectly OK for individuals to define their own roles and identities without regard to gender expectations or preexisting labels.",
+            "Gender and sexual minorities are still oppressed and should fight back.",
+            "Queer people deserve special accomodations until they're truly, fully accepted."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Queer history is actively and deliberately suppressed and/or ignored.",
+            "Queer culture is a real, valid culture that should be preserved and perepetuated.",
+            "Queer relationships shouldn't follow straight standards."
         ],
         [//1
-            "",
-            "",
-            ""
+            "Trans and nonbinary people are the gender they say they are.",
+            "No one is truly progressive unless they support feminism and queer liberation.",
+            "There is nothing special about straight marriage when compared to other relationships."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "I'm OK with gay people as long as they don't shove it in my face.",
+            "Queer people should just quietly assimilate into mainstream society.",
+            "Feminism should really just separate itself from queer movements."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "Being queer is unnatural / a lifestyle choice.",
+            "'Cis' is a slur, or at least an unnecessary term. The right word is 'normal'.",
+            "Children should never be exposed to gay/trans people in media or school."
         ],
         [//-3
             "Humans are divided into only 2 sexes, which are biologically 'designed' for heterosexuality.",
-            "",
-            ""
+            "The prupose of romantic relationships is procreation.",
+            "Accepting queer people will inevitably weaken a society."
         ],
         [//-4
             "The traits associated with masculinity and femininity stem directly from biological characteristics.",
-            "",
-            ""
+            "Queer relationships aren't as 'real'/valid as straight ones.",
+            "Real realtionships are between one (cishet) man and one (cishet) woman."
         ]],
     [[//Bioconservative <-> Transhumanist
         [//4
@@ -545,7 +545,7 @@ questions =
             ""
         ],
         [//2
-            "",
+            "The risk of modifying the human body (or the human genome) far outweighs any possible benefits.",
             "",
             ""
         ],
@@ -555,12 +555,12 @@ questions =
             ""
         ],
         [//-1
-            "",
+            "Getting past physical limitations through technology would be ideal.",
             "",
             ""
         ],
         [//-2
-            "",
+            "Whether something is 'natural' or not is irrelevant to whether it's good.",
             "",
             ""
         ],
@@ -570,7 +570,7 @@ questions =
             ""
         ],
         [//-4
-            "",
+            "Genetic modification of human beings would be one of humanity's greatest, most beneficial achievements.",
             "",
             ""
         ]],
@@ -581,12 +581,12 @@ questions =
             ""
         ],
         [//3
-            "",
-            "",
+            "Every new era of techonology is a disaster for the human race.",
+            "Alienation from nature / our natural lifestyle is the source for a lot of today's problems.",
             ""
         ],
         [//2
-            "",
+            "Genetic modification of food crops should not be a thing.",
             "",
             ""
         ],
@@ -596,7 +596,7 @@ questions =
             ""
         ],
         [//-1
-            "",
+            "Evolution is a fact.",
             "",
             ""
         ],
@@ -642,12 +642,12 @@ questions =
             ""
         ],
         [//-2
-            "",
+            "Being 'anti-work' is a stupid/lazy position.",
             "",
             ""
         ],
         [//-3
-            "",
+            "Without work, people would spend most of their time on aimless idling.",
             "",
             ""
         ],
@@ -668,7 +668,7 @@ questions =
             ""
         ],
         [//2
-            "",
+            "Utilities (water, power, roads, etc.) should be publically (or communally) owned.",
             "",
             ""
         ],
@@ -688,12 +688,12 @@ questions =
             ""
         ],
         [//-3
-            "",
+            "The justice system should be mostly or completely privatized.",
             "",
             ""
         ],
         [//-4
-            "",
+            "Without monetary reward / intellectual property, people wouldn't have sufficient incentive to invent or create.",
             "",
             ""
         ]],
