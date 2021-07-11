@@ -658,18 +658,18 @@ questions =
         ]],
      [[//Communal Property <-> Private Property
         [//4
-            "",
-            "",
-            ""
+            "Except for personal effects, all material property should be shared by the community, through a library-like system.",
+            "Communal living is the ideal living situation.",
+            "All land should be owned by - and available to - all people."
         ],
         [//3
-            "",
-            "",
-            ""
+            "All motorized transport should be public.",
+            "All healthcare should be completely public and free at the point of use, even 'non-essential' care.",
+            "'If we wait for the government, it'll be too late. If we act as individuals it'll be too little. If we act as communities, it might just be enough.'"
         ],
         [//2
             "Utilities (water, power, roads, etc.) should be publically (or communally) owned.",
-            "",
+            "Renting is inherently predatory; the people living in a place should own it.",
             ""
         ],
         [//1
@@ -689,7 +689,7 @@ questions =
         ],
         [//-3
             "The justice system should be mostly or completely privatized.",
-            "",
+            "'What is common to many is taken least care of, for all men have greater regard for what is their own than for what they possess in common with others.'",
             ""
         ],
         [//-4
