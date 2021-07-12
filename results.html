@@ -177,63 +177,58 @@
     rightArray = ["Sentientist","Individualist","Dogmatist","Bellicist","Intersectionalist","Hierarchist","Vanguardist","Clericalist","Unitarian","Autarky","Anticolonialist","Supremacist","Cishet Essentialist","Transhumanist","Technophile","Labor Essentialist","Communal Property","Positive Freedom"]
 
     function setLabel(val,axis) {
-        if (val >= 90) { 
-            if (leftArray[axis] = "Private Property") { return "Perpetual Private Property" }
-            else { return "Absolute " + leftArray[axis]} 
-        } else
+        if (val >= 90) { return "Absolute " + leftArray[axis] } else
         if (val >= 80) { 
-            if (leftArray[axis] = "Private Property") { return "Private Property" }
-            else { return "Fervent " + leftArray[axis]} 
-        } else
+                if (leftArray[axis] = "Private Property") { return "Privatization" } else
+                    { return "Fervent " + leftArray[axis]} 
+            } else
         if (val >= 70) { return leftArray[axis] } else
         if (val >= 60) {
-            if (leftArray[axis] = "Dominionist") { return "Mild Environmentalist" } else
-            if (leftArray[axis] = "Reductionist") { return "Selective Reductionist" } else
-            if (leftArray[axis] = "Free Association") { return "Confederalist" } else
-            if (leftArray[axis] = "Imperialist") { return "Expansionist" } else
-            if (leftArray[axis] = "Queer Liberation") { return "Queer Action" } else
-            if (leftArray[axis] = "Luddite") { return "Technology-skeptical" } 
-            if (leftArray[axis] = "Post-work") { return "Laboral Self-determination" } 
-            else { return "Moderate " + leftArray[axis] }
-        } else
+                if (leftArray[axis] = "Dominionist") { return "Mild Environmentalist" } else
+                if (leftArray[axis] = "Reductionist") { return "Selective Reductionist" } else
+                if (leftArray[axis] = "Free Association") { return "Confederalist" } else
+                if (leftArray[axis] = "Imperialist") { return "Expansionist" } else
+                if (leftArray[axis] = "Queer Liberation") { return "Queer Action" } else
+                if (leftArray[axis] = "Luddite") { return "Technology-skeptical" } 
+                if (leftArray[axis] = "Post-work") { return "Laboral Self-determination" } else
+                    { return "Moderate " + leftArray[axis] }
+            } else
         if (val > 40) { 
-            if (leftArray[axis] = "Dominionist") { return "Environmentalist" } else
-            if (leftArray[axis] = "Collectivist") { return "Communalist" } else
-            if (leftArray[axis] = "Pragmatist") { return "Analytic" } else
-            if (leftArray[axis] = "Pacifist") { return "Militant" } else
-            if (leftArray[axis] = "Reductionist") { return "Acknowledgment of Privilege" } else
-            if (leftArray[axis] = "Anarchist") { return "Neutral" } else
-            if (leftArray[axis] = "Democrat") { return "Representative Democracy" } else
-            if (leftArray[axis] = "Secularist") { return "Laissez-adorer" } else
-            if (leftArray[axis] = "Free Association") { return "Federalist" } else
-            if (leftArray[axis] = "Globalist") { return "Regionalist" } else
-            if (leftArray[axis] = "Imperialist") { return "Acolonialist" } else
-            if (leftArray[axis] = "Multiculturalist") { return "Acculturationist" } else
-            if (leftArray[axis] = "Queer Liberation") { return "Queer Normalization" } else
-            if (leftArray[axis] = "Bioconservatist") { return "Actualizationist" } else
-            if (leftArray[axis] = "Luddite") { return "Neutral" } 
-            else { return "Labor Decency" }
-        } else
+                if (leftArray[axis] = "Dominionist") { return "Environmentalist" } else
+                if (leftArray[axis] = "Collectivist") { return "Communalist" } else
+                if (leftArray[axis] = "Pragmatist") { return "Analytic" } else
+                if (leftArray[axis] = "Pacifist") { return "Militant" } else
+                if (leftArray[axis] = "Reductionist") { return "Acknowledgment of Privilege" } else
+                if (leftArray[axis] = "Anarchist") { return "Neutral" } else
+                if (leftArray[axis] = "Democrat") { return "Representative Democracy" } else
+                if (leftArray[axis] = "Secularist") { return "Laissez-adorer" } else
+                if (leftArray[axis] = "Free Association") { return "Federalist" } else
+                if (leftArray[axis] = "Globalist") { return "Regionalist" } else
+                if (leftArray[axis] = "Imperialist") { return "Acolonialist" } else
+                if (leftArray[axis] = "Multiculturalist") { return "Acculturationist" } else
+                if (leftArray[axis] = "Queer Liberation") { return "Queer Normalization" } else
+                if (leftArray[axis] = "Bioconservatist") { return "Actualizationist" } else
+                if (leftArray[axis] = "Luddite") { return "Neutral" } else
+                    { return "Labor Decency" }
+            } else
         if (val > 30) {
-             if (leftArray[axis] = "Dominionist") { return "Natural Conservationist" } else
-            if (leftArray[axis] = "Collectivist") { return "Tribalist" } else
-            if (leftArray[axis] = "Reductionist") { return "Selective Intersectionalist" } else
-            if (leftArray[axis] = "Democrat") { return "Demarchist" } else
-            if (leftArray[axis] = "Imperialist") { return "Decolonialist" } else
-            if (leftArray[axis] = "Multiculturalist") { return "Assimilationist" } else
-            if (leftArray[axis] = "Queer Liberation") { return "Queer Integration" } else
-            if (leftArray[axis] = "Bioconservatist") { return "Extropianist" } else
-            else { return "Moderate " + rightArray[axis] }
-        } else
+                if (leftArray[axis] = "Dominionist") { return "Natural Conservationist" } else
+                if (leftArray[axis] = "Collectivist") { return "Tribalist" } else
+                if (leftArray[axis] = "Reductionist") { return "Selective Intersectionalist" } else
+                if (leftArray[axis] = "Democrat") { return "Demarchist" } else
+                if (leftArray[axis] = "Imperialist") { return "Decolonialist" } else
+                if (leftArray[axis] = "Multiculturalist") { return "Assimilationist" } else
+                if (leftArray[axis] = "Queer Liberation") { return "Queer Integration" } else
+                if (leftArray[axis] = "Bioconservatist") { return "Extropianist" } else
+                    { return "Moderate " + rightArray[axis] }
+            } else
         if (val > 20) { return rightArray[axis] } else
         if (val > 10) {  
-            if (leftArray[axis] = "Private Property") { return "Social Property" }
-            else { return "Fervent " + leftArray[axis]} 
-        } else
-        	{ 
-            if (leftArray[axis] = "Private Property") { return "Commons" }
-            else { return "Absolute " + rightArray[axis]} 
-        } else
+                if (leftArray[axis] = "Private Property") { return "Social Property" } else
+                    { return "Fervent " + leftArray[axis]} 
+            } else
+        	    { if (leftArray[axis] = "Private Property") { return "Commons" }
+                  else { return "Absolute " + rightArray[axis]} 
     }
 
     a  = getQueryVariable("a")
@@ -351,7 +346,7 @@
         dist += Math.pow(Math.abs(ideologies[i].stats.ludd - o), 1.73856063)
         dist += Math.pow(Math.abs(ideologies[i].stats.work - p), 2)
         dist += Math.pow(Math.abs(ideologies[i].stats.priv - q), 2)
-        dist += Math.pow(Math.abs(ideologies[i].stats.priv - r), 2)
+        dist += Math.pow(Math.abs(ideologies[i].stats.nfree - r), 2)
         
         if (dist < ideodist) {
             ideology = ideologies[i].name
@@ -447,6 +442,7 @@
         ctx.drawImage(img, 20, 2160, 100, 100)
         img = document.getElementById("img-positive")
         ctx.drawImage(img, 680, 2160, 100, 100)
+        
 
         ctx.fillStyle="#222222"
         ctx.fillRect(120, 130, 560, 80)
