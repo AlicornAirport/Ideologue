@@ -17,6 +17,7 @@ ideologies = [
             "queer": 0,
             "work": 100,
             "priv": 70,
+            "nfree": 0
         }
     },
         {
@@ -38,7 +39,7 @@ ideologies = [
             "biocon": 80,
             "ludd": 0,
             "work": 100,
-            "priv": 70,
+            "priv": 70
         }
     },
         {
@@ -60,7 +61,7 @@ ideologies = [
             "biocon": 50,
             "ludd": 50,
             "work": 100,
-            "priv": 100,
+            "priv": 100
         }
     },
         {
@@ -82,7 +83,7 @@ ideologies = [
             "biocon": 0,
             "ludd": 0,
             "work": 30,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -104,7 +105,7 @@ ideologies = [
             "biocon": 0,
             "ludd": 0,
             "work": 90,
-            "priv": 100,
+            "priv": 100
         }
     },
         {
@@ -126,7 +127,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 60,
             "work": 90,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -148,7 +149,7 @@ ideologies = [
             "biocon": 60,
             "ludd": 15,
             "work": 40,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -170,7 +171,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 50,
             "work": 95,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -192,7 +193,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 100,
             "work": 0,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -214,7 +215,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 45,
             "work": 100,
-            "priv": 65,
+            "priv": 65
         }
     },
         {
@@ -237,6 +238,7 @@ ideologies = [
             "ludd": 50,
             "work": 50,
             "priv": 0,
+            "nfree": 100
         }
     },
         {
@@ -258,7 +260,7 @@ ideologies = [
             "biocon": 50,
             "ludd": 50,
             "work": 50,
-            "priv": 20,
+            "priv": 20
         }
     },
         {
@@ -280,7 +282,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 65,
             "work": 95,
-            "priv": 35,
+            "priv": 35
         }
     },
         {
@@ -302,7 +304,7 @@ ideologies = [
             "biocon": 50,
             "ludd": 0,
             "work": 35,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -324,7 +326,7 @@ ideologies = [
             "biocon": 10,
             "ludd": 0,
             "work": 0,
-            "priv": 30,
+            "priv": 30
         }
     },
         {
@@ -346,7 +348,7 @@ ideologies = [
             "biocon": 0,
             "ludd": 0,
             "work": 0,
-            "priv": 15,
+            "priv": 15
         }
     },
         {
@@ -368,7 +370,7 @@ ideologies = [
             "biocon": 0,
             "ludd": 0,
             "work": 40,
-            "priv": 50,
+            "priv": 50
         }
     },
         {
@@ -390,7 +392,7 @@ ideologies = [
             "biocon": 0,
             "ludd": 0,
             "work": 0,
-            "priv": 0,
+            "priv": 0
         }
     },
      {
@@ -412,7 +414,7 @@ ideologies = [
             "biocon": 15,
             "ludd": 0,
             "work": 0,
-            "priv": 30,
+            "priv": 30
         }
     },    
   {
@@ -434,7 +436,7 @@ ideologies = [
             "biocon": 25,
             "ludd": 25,
             "work": 50,
-            "priv": 10,
+            "priv": 10
         }
     },
   {
@@ -456,7 +458,7 @@ ideologies = [
             "biocon": 40,
             "ludd": 80,
             "work": 10,
-            "priv": 0,
+            "priv": 0
         }
     },
       {
@@ -478,7 +480,7 @@ ideologies = [
             "biocon": 90,
             "ludd": 70,
             "work": 90,
-            "priv": 30,
+            "priv": 30
         }
     },
       {
@@ -500,7 +502,7 @@ ideologies = [
             "biocon": 100,
             "ludd": 91,
             "work": 100,
-            "priv": 0,
+            "priv": 0
         }
     },
   {
@@ -522,7 +524,7 @@ ideologies = [
             "biocon": 70,
             "ludd": 50,
             "work": 30,
-            "priv": 0,
+            "priv": 0
         }
     },
       {
@@ -544,7 +546,7 @@ ideologies = [
             "biocon": 68,
             "ludd": 76,
             "work": 30,
-            "priv": 40,
+            "priv": 40
         }
     },
   {
@@ -565,7 +567,7 @@ ideologies = [
             "queer": 50,
             "biocon": 50,
             "ludd": 68,
-            "priv": 15,
+            "priv": 15
         }
     },
      {
@@ -585,7 +587,7 @@ ideologies = [
             "mult": 60,
             "queer": 60,
             "work": 90,
-            "priv": 25,
+            "priv": 25
         }
     },
               {
@@ -605,7 +607,7 @@ ideologies = [
             "mult": 0,
             "queer": 0,
             "work": 100,
-            "priv": 0,
+            "priv": 0
    }
     },
         {
@@ -621,7 +623,7 @@ ideologies = [
             "mult": 60,
             "queer": 50,
             "work": 100,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -637,7 +639,7 @@ ideologies = [
             "mult": 60,
             "queer": 50,
             "work": 100,
-            "priv": 0,
+            "priv": 0
     }
     },
         {
@@ -653,7 +655,7 @@ ideologies = [
             "mult": 60,
             "queer": 50,
             "work": 100,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -669,7 +671,7 @@ ideologies = [
             "mult": 60,
             "queer": 50,
             "work": 100,
-            "priv": 0,
+            "priv": 0
         }
     },
         {
@@ -686,7 +688,7 @@ ideologies = [
             "assoc": 0,
             "glob": 0,
             "imp": 15,
-            "mult": 10,
+            "mult": 10
         }
     }, 
       {
@@ -702,7 +704,7 @@ ideologies = [
             "assoc": 0,
             "glob": 100,
             "biocon": 20,
-            "ludd": 0,
+            "ludd": 0
         }
     },
         {
@@ -715,7 +717,7 @@ ideologies = [
             "red": 100,
             "anarchy": 100,
             "dem": 80,
-            "free": 0,
+            "free": 0
         }
     },
       {
@@ -729,7 +731,7 @@ ideologies = [
             "assoc": 85,
             "glob": 0,
             "imp": 0,
-            "mult": 30,
+            "mult": 30
         }
     },
       {
@@ -743,7 +745,7 @@ ideologies = [
             "queer": 90,
             "mult": 90,
             "imp": 10,
-            "priv": 0,
+            "priv": 0
         }
     },
       {
@@ -756,7 +758,7 @@ ideologies = [
             "anarchy": 100,
             "dem": 10,
             "assoc": 100,
-            "priv": 100,
+            "priv": 100
         }
     },
     {
