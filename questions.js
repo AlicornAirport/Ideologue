@@ -39,8 +39,7 @@ questions =
             "I advocate for the rights and well-being of all sentient beings, whether artificial intellects, humans, posthumans, or non-human animals",
             "Animal agriculture should be completely abolished.",
             "We can never achieve true liberation until we consider non-human sentient beings as worthy of the same."
-        ]],
-    [[//Collectivist <-> Individualist
+        ]],[//Collectivist <-> Individualist
         [//4
             "What matters most about a person is the impact they have on other people.",
             "The wellbeing of others is just as important as - and is a factor in - my own wellbeing.",
@@ -80,8 +79,7 @@ questions =
             "Exceptional individuals don't need other people to achieve great things.",
             "History is shaped mostly by a few exceptional people.",
             "Individual achievements are the most important part of a person's worth."
-        ]],
-    [[//Pragmatist <-> Dogmatist
+        ]],[//Pragmatist <-> Dogmatist
         [//4
             "Opportunism is a valid strategy to advance our goals.",
             "We should define social or economic goals, not by what is ideal, but by what can be realistically achieved.",
@@ -121,8 +119,7 @@ questions =
             "Ideals (how things should be) must be our ultimate goal, even if they're impossible to fully achieve.",
             "There already exists an ideology that could lead to utopia if applied correctly, unmodified.",
             "Any praxis that doesn't fit the textbook definition of an ideology should be considered a separate ideology."
-        ]],
-    [[//Pacifist <-> Bellicist
+        ]],[//Pacifist <-> Bellicist
         [//4
             "Violence is never justified.",
             "All fighting is inherently cruel.",
@@ -162,8 +159,7 @@ questions =
             "Violence is sometimes the only way.",
             "People who stand in the way of a better world should be removed. By force if necessary.",
             "Change can only be brought about through revolt."
-        ]],
-    [[//Reductionist <-> Intersectionalist
+        ]],[//Reductionist <-> Intersectionalist
         [//4
             "The support of racist/misogynist/etc. systems is the unfortunate side effect of legitimate grievances among their supporters.",
             "All the categories and identities people label themselves with only serve to divide us.",
@@ -203,8 +199,7 @@ questions =
             "All forms of inequality (e.g., class, race, gender, etc.) are inextricably linked and equally worthy of addressing.",
             "We can never be truly free/equal until steps are taken to remedy historical inequalities.",
             "All the evils of our society are branches of the same nasty tree. Therefore, focusing on only one is of no use."
-        ]],
-    [[//Anarchist <-> Hierarchist
+        ]],[//Anarchist <-> Hierarchist
         [//4
             "All hierarchy is inherently unjust, exploitative, or coercive.",
             "Hierarchy is arbitrary and has no real justification.",
@@ -244,8 +239,7 @@ questions =
             "Society would fall apart without well-defined leadership.",
             "Authority should be respected, even if we disagree with it / criticize it.",
             "A State is necessary to keep a society functional."
-        ]],
-    [[//Democrat <-> Vanguardist
+        ]],[//Democrat <-> Vanguardist
         [//4
             "All people should be able to have a direct voice (or vote) in every issue.",
             "Majority concensus is the best form of decision-making.",
@@ -285,8 +279,7 @@ questions =
             "People in power have a better perspective, and should therefore be able to make decisions without consulting anyone else.",
             "Power should be concentrated in the hands of the best and brightest.",
             "Democracy is just a fancy word for mob rule."
-        ]],
-     [[//Secularist <-> Clericalist
+        ]],[//Secularist <-> Clericalist
         [//4
             "In an ideal world, religion would either be abolished or fade out completely.",
             "If you're a good person based on a system of supernatural reward and punishment, you're not a good person at all",
@@ -326,8 +319,7 @@ questions =
             "The separation of church and state is harmful.",
             "The world would be better, or even perfect, if we just let the divine guide us.",
             "People cannot be moral without religion (or a relationship with the divine)."
-        ]],
-    [[//Free Associate <-> Unitarian
+        ]],[//Free Associate <-> Unitarian
         [//4
             "Valid communities and/or nations are formed directly by the people in them; any government or capital involvement is coercion.",
             "Individuals should be mostly or completely self-governing.",
@@ -368,8 +360,7 @@ questions =
             "Unitary national governments are preferable to any federation",
             "One country. One government. One law.",
             "People should be loyal to their country, not their community."
-        ]],
-    [[//Globalist <-> Autarkist
+        ]],[//Globalist <-> Autarkist
         [//4
             "Humanity would benefit from the total abolition of individual states/countries.",
             "We should care just as much for people outside our community (or even our country) as we do for those in it.",
@@ -409,8 +400,7 @@ questions =
             "There should be no international trade.",
             "Every nation should only concern itself with what happens within its borders.",
             "Everything consumed in a nation should be produced there."
-        ]],
-    [[//Imperialist <-> Anticolonialist
+        ]],[//Imperialist <-> Anticolonialist
         [//4
             "Colonialism was a civlizing force throughout the world.",
             "Aboriginal peoples have no right to land or resources that their ancestors once owned.",
@@ -450,8 +440,7 @@ questions =
             "Colonialist powers should have to give their victims (or their descendants) reparations until said victims have equal socioeconmic and developmental standing to the colonizers.",
             "Colonialism, imperialism, and white supremacy are living ideologies that still shape the world and must be dismantled.",
             "Cultural genocide is a real form of genocide, still happening all over the world."
-        ]],
-    [[//Multiculturalist <-> Supremacist
+        ]],[//Multiculturalist <-> Supremacist
         [//4
             "All cultures have equal value, and are capable of meshing together to produce something better than the sum of its parts.",
             "All cultures deserve equal respect, even if some of their individual values are harmful.",
@@ -491,8 +480,7 @@ questions =
             "Real civilization has a single point of origin; everyone else just copied them.",
             "My race and/or my culture is obviously superior to all others.",
             "My culture is harmfully diluted by mixing with other cultures."
-        ]],
-    [[//Queer Liberation <-> Bioessentialist
+        ]],[//Queer Liberation <-> Bioessentialist
         [//4
             "Gender and sexuality are both spectrums, with very few people actually falling on the extreme ends.",
             "The first Pride was a riot; let's keep it that way.",
@@ -532,8 +520,7 @@ questions =
             "The traits associated with masculinity and femininity stem directly from biological characteristics.",
             "Queer relationships aren't as 'real'/valid as straight ones.",
             "Real realtionships are between one (cishet) man and one (cishet) woman."
-        ]],
-    [[//Bioconservative <-> Transhumanist
+        ]],[//Bioconservative <-> Transhumanist
         [//4
             "Biohacking and self-modification are an abomination.",
             "'Transhumanism' is just chrome-plated eugenics.",
@@ -573,8 +560,7 @@ questions =
             "Genetic modification of human beings would be one of humanity's greatest, most beneficial achievements.",
             "People should be able to modify their bodies in any way they want, even just for fun or aesthetics.",
             "Open-source biological parts, body mods, and biohacking are amazing things everybody should be able to use."
-        ]],
-    [[//Luddism <-> Technophilia
+        ]],[//Luddism <-> Technophilia
         [//4
             "An ideal society would only have pre-Industrial technology.",
             "Technological development has gone too far and should be stopped.",
@@ -614,8 +600,7 @@ questions =
             "Technology holds the solution for most problems.",
             "Humanity should continue to explore space for the sake of exploration.",
             "Humanity has only come this far because of technology."
-        ]],
-    [[//Post-Work <-> Labor Essentialist
+        ]],[//Post-Work <-> Labor Essentialist
         [//4
             "The goal of automation should be to completely eliminate the need to work to supply basic needs.",
             "People should be completely free to pursue their interests (including having all their needs met), regardless of whether those interests are deemed 'productive'.",
@@ -655,8 +640,7 @@ questions =
             "Jobs should be preserved and created, even when the means to completely eliminate the need for them exist.",
             "There is inherent worth in labor, even so-called 'bullshit jobs'.",
             "Work is an essential part of being human."
-        ]],
-     [[//Communal Property <-> Private Property
+        ]],[//Communal Property <-> Private Property
         [//4
             "Except for personal effects, all material property should be shared by the community, through a library-like system.",
             "Communal living is the ideal living situation.",
@@ -696,8 +680,7 @@ questions =
             "Without monetary reward / intellectual property, people wouldn't have sufficient incentive to invent or create.",
             "Private prisons are an excellent idea that relieves people from paying for criminals' lives.",
             "If people are unhappy with their job, they should just start their own business."
-        ]],
-    [[//Negative Freedoms <-> Positive Freedoms
+        ]],[//Negative Freedoms <-> Positive Freedoms
         [//4
             "The government has no right to interfere with people's lives in any way.",
             "Rehabilitative justice isn't justice at all.",
@@ -737,4 +720,5 @@ questions =
             "Freedom is having one's needs met.",
             "The NSA is nowhere near as bad as some people make it seem.",
             "Freedom is meaningless if safety is threatened."
-        ]],
+        ]
+    ]];
