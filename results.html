@@ -47,7 +47,7 @@
     <img id="img-d" src="value_images/pac.png" height="128pt"/>
     <div class="bar d" id="bar-d"><div class="text-wrapper" id="d"></div></div>
     <div class="bar d2" id="bar-d2"><div class="text-wrapper" id="d2"></div></div>
-    <img id="img-d2" src="value_images/bel.png" height="128pt"/> -->
+    <img id="img-d2" src="value_images/bel.png" height="128pt"/>
 </div>
     
 <h2>Intersectionality: <span class="weight-300" id="e-label"></span></h2>
@@ -159,14 +159,14 @@
     <img id="img-r" src="value_images/federal.png" height="128pt"/>
     <div class="bar r" id="bar-r"><div class="text-wrapper" id="r"></div></div>
     <div class="bar r2" id="bar-r2"><div class="text-wrapper" id="r2"></div></div>
-    -- <img id="img-r2" src="value_images/federal.png" height="128pt"/> 
+    <img id="img-r2" src="value_images/federal.png" height="128pt"/> 
 </div>
 </div>
 <br><br>
  
 <div class="element">
     <h2 class="ideology">Closest Match: <span class="weight-300" id="ideology-label" onclick="ideologyLink()" style="color: #2222DD;text-decoration: underline"></span></h2>
-    <br><p><span class="weight-300" id="ideology-desc""></span></p><br>
+    <br><p><span class="weight-300" id="ideodesc-label""></span></p><br>
 </div>
 
 <br><br>
@@ -339,9 +339,9 @@
     setBarValue("g2", g2)
     setBarValue("h", h)
     setBarValue("h2", h2)
-    setBarValue("i", i1)
+    setBarValue("i", i)
     setBarValue("i2", i2)
-    setBarValue("j", j1)
+    setBarValue("j", j)
     setBarValue("j2", j2)
     setBarValue("k", k)
     setBarValue("k2", k2)
@@ -378,7 +378,7 @@
     document.getElementById("o-label").innerHTML = setLabel(o, oArray)
     document.getElementById("p-label").innerHTML = setLabel(p, pArray)
     document.getElementById("q-label").innerHTML = setLabel(q, qArray)
-    document.getElementById("q-label").innerHTML = setLabel(r, rArray)
+    document.getElementById("r-label").innerHTML = setLabel(r, rArray)
 
     ideology = ""
     ideodist = Infinity
@@ -404,7 +404,7 @@
         dist += Math.pow(Math.abs(ideologies[i].stats.nfree - r), 2)
         if (dist < ideodist) {
             ideology = ideologies[i].name
-	        ideolink = ideologies[i].link
+	    ideolink = ideologies[i].link
             ideodesc = ideologies[i].desc
             ideodist = dist
         }
