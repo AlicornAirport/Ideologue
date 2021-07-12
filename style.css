@@ -149,163 +149,183 @@ div.text-wrapper {
     color: #222222;
     display: inline-block;
 }
-div.Dominionst {
+div.dominion {
     background-color: #ffeb3b;
     text-align: left;
     border-right-style: solid;
 }
-div.Sentientist {
+div.sentient {
     background-color: #f44336;
     text-align: right;
     border-left-style: solid;
 }
-div.Individualist {
+div.collective {
     background-color: #00897b;
     text-align: left;
     border-right-style: solid;
 }
-div.Collectivist {
+div.individual {
     background-color: #ff9800;
     text-align: right;
     border-left-style: solid;
 }
-div.Pragmatist {
+div.pragma {
     background-color: #03a9f4;
     text-align: left;
     border-right-style: solid;
 }
-div.Dogmatist {
+div.dogmat {
     background-color: #9c27b0;
     text-align: right;
     border-left-style: solid;
 }
-div.Bellicist {
+div.pacifist {
     background-color: #ea90ab;
-    text-align: right;
+    text-align: left;
     border-left-style: solid;
 }
-div.Pacifist {
+div.bellicist {
     background-color: #8bc34a;
-    text-align: left;
+    text-align: right;
     border-right-style: solid;
 }
-div.Reductionist {
+div.reduction {
     background-color: #3f51b5;
     text-align: left;
     border-right-style: solid;
 }
-div.Intersectionalist {
+div.intersection {
     background-color: #ffeb3b;
     text-align: right;
     border-left-style: solid;
 }
-div.Anarchist {
+div.anarchy {
     background-color: #f44336;
     text-align: left;
     border-right-style: solid;
 }
-div.Hierarchist {
+div.hierarchy {
     background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
-div.Democrat {
+div.democrat {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
-div.Vanguardist {
+div.vanguard {
     background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
-div.Secularist {
+div.secularist {
     background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
 }
-div.Clericalist {
+div.clericalist {
     background-color: #8bc34a;
     text-align: right;
     border-left-style: solid;
 }
-div.Association {
+div.federal {
     background-color: #ea90ab;
     text-align: left;
     border-right-style: solid;
 }
-div.Unitarian {
+div.unity {
     background-color: #3f51b5;
     text-align: right;
     border-left-style: solid;
 }
-div.Globalist {
+div.global {
     background-color: #03a9f4;
     text-align: left;
     border-right-style: solid;
 }
-div.Autarkist {
+div.autark {
     background-color: #9c27b0;
     text-align: right;
     border-left-style: solid;
 }
-div.Imperialist {
+div.imperial {
     background-color: #ea90ab;
     text-align: right;
     border-left-style: solid;
 }
-div.Anticolonialist {
+div.decolonial {
     background-color: #8bc34a;
     text-align: left;
     border-right-style: solid;
 }
-div.Multiculturalist {
+div.multicultural {
     background-color: #3f51b5;
     text-align: left;
     border-right-style: solid;
 }
-div.Assimilationist {
+div.supremacy {
     background-color: #ffeb3b;
     text-align: right;
     border-left-style: solid;
 }
-div.Liberation {
+div.queer {
     background-color: #f44336;
     text-align: left;
     border-right-style: solid;
 }
-div.Essentialism {
+div.cishet {
     background-color: #00897b;
     text-align: right;
     border-left-style: solid;
 }
-div.Bioconservatist {
+div.biocon {
     background-color: #ff9800;
     text-align: left;
     border-right-style: solid;
 }
-div.Transhumanist {
+div.trans {
     background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
-div.Luddite {
+div.luddite {
     background-color: #9c27b0;
     text-align: left;
     border-right-style: solid;
 }
-div.Technophile {
+div.techno {
     background-color: #8bc34a;
     text-align: right;
     border-left-style: solid;
 }
-div.Labor {
+div.play {
     background-color: #ea90ab;
     text-align: left;
     border-right-style: solid;
 }
-div.Play {
+div.work {
     background-color: #3f51b5;
+    text-align: right;
+    border-left-style: solid;
+}
+div.priv {
+    background-color: #f44336;
+    text-align: left;
+    border-right-style: solid;
+}
+div.com {
+    background-color: #00897b;
+    text-align: right;
+    border-left-style: solid;
+}
+div.negative {
+    background-color: #ff9800;
+    text-align: left;
+    border-right-style: solid;
+}
+div.positive {
+    background-color: #03a9f4;
     text-align: right;
     border-left-style: solid;
 }
