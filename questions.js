@@ -437,7 +437,7 @@ questions =
             "Both indigenous rights and culture are ignored and/or erased too often."
         ],
         [//-2
-            "'Western' countries themselves have created the conditions that drive people to immigrate to them.",
+            "'Western' countries themselves have created the conditions that drive people to emigrate to them.",
             "The indigenous languages of colonized areas should be considered official, and taught to the people living there.",
             "Imperialism and colonialism are still an overwhelming majority of foreign policy, and should be actively fought."
         ],
@@ -699,42 +699,42 @@ questions =
         ]],
     [[//Negative Freedoms <-> Positive Freedoms
         [//4
-            "",
-            "",
-            ""
+            "The government has no right to interfere with people's lives in any way.",
+            "Rehabilitative justice isn't justice at all.",
+            "There should be no 'classified' or privileged information."
         ],
         [//3
-            "",
-            "",
-            ""
+            "Taking away rights in the name of security is meaningless theater at best, active oppression at worst.",
+            "Access to information and knowledge should be free and universal.",
+            "Freedom of speech should be respected even when said speech could be considered offensive harmful."
         ],
         [//2
-            "",
-            "",
-            ""
+            "Total accountability and transparency should be required of anyone in power.",
+            "People in positions of authority shouldn't require deference to treat other people with respect.",
+            "Doctors should be able to refuse to perform certain procedures based on beliefs or preference."
         ],
         [//1
-            "",
-            "",
-            ""
+            "'A person's rights end where others' rights begin.'",
+            "People are entitled to act freely, without interference.",
+            "Any business should have the right to refuse service to anyone for any reason."
         ],
         [//-1
-            "",
-            "",
-            ""
+            "No one should be guaranteed an online platform.",
+            "A community should be able to keep out or cancel events that make them feel unsafe.",
+            "'Basic needs' doesn't only cover what's needed to survive (food, water, etc.), but what's needed to thrive (creative expression, culture, community spaces, etc.)."
         ],
         [//-2
-            "",
-            "",
-            ""
+            "People should sometimes be protected from the truth.",
+            "Aesthetic or decency standards should be applied equally, regardless of whether they disproportionately affect a minority group (e.g.: requiring a Sikh to remove their turban due to a dress code).",
+            "'If you have nothing to hide, you have nothing to fear.'"
         ],
         [//-3
-            "",
-            "",
-            ""
+            "Active profiling and monitoring of certain people is a valid crime-prevention strategy.",
+            "If a protest can interfere with the regular functioning of the institution it's protesting, it should do so.",
+            "Punishment is always counterproductive."
         ],
         [//-4
-            "",
-            "",
-            ""
+            "Freedom is having one's needs met.",
+            "The NSA is nowhere near as bad as some people make it seem.",
+            "Freedom is meaningless if safety is threatened."
         ]],
