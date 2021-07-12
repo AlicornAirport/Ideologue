@@ -14,20 +14,21 @@
 <hr>
 <h2 style="text-align:center;" id="question-number">Loading...</h2>
 <p class="question" id="question-text"></p>
-<button class="button" onclick="next_question( 2)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
-<button class="button" onclick="next_question( 1)" style="background-color: #4caf50;">Agree</button> <br>
+<button class="button" onclick="next_question(   2)" style="background-color: #1b5e20;">Strongly Agree</button> <br>
+<button class="button" onclick="next_question(   1)" style="background-color: #4caf50;">Agree</button> <br>
 <button class="button" onclick="next_question( 0.5)" style="background-color: #81C784;">Somewhat Agree</button> <br>
-<button class="button" onclick="next_question( 0)" style="background-color: #bbbbbb;">Neutral / Unsure</button> <br>
+<button class="button" onclick="next_question(   0)" style="background-color: #bbbbbb;">Neutral / Unsure</button> <br>
 <button class="button" onclick="next_question(-0.5)" style="background-color: #F6685E;">Somewhat Disagree</button> <br>
-<button class="button" onclick="next_question(-1)" style="background-color: #f44336;">Disagree</button> <br>
-<button class="button" onclick="next_question(-2)" style="background-color: #b71c1c;">Strongly Disagree</button> <br>
-<button class="small_button" onclick="prev_question()" id="back_button">Previous</button>
+<button class="button" onclick="next_question(  -1)" style="background-color: #f44336;">Disagree</button> <br>
+<button class="button" onclick="next_question(  -2)" style="background-color: #b71c1c;">Strongly Disagree</button> <br>
+
+        <button class="small_button" onclick="prev_question()" id="back_button">Previous</button>
 <button class="small_button_off" id="back_button_off">Previous</button><br>
 
 
 <script>
-     var scores = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];//sent, coll, dog, pac, int, ana, dem, sec, fed, glob, imp, mult, q, trans, lud, lab, priv, free - User's scores
-    var qn = 0; // Question number
+    var scores = [0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0, 0];//sent, coll, dog, pac, int, ana, dem, sec, fed, glob, imp, mult, q, trans, lud, lab, priv, free - User's scores
+    var qn = 0;
     var answers = [];
     var quests = [];
     init_all_questions(quests);
@@ -127,7 +128,7 @@
             + `&o=${calc_score(scores[14])}`
             + `&p=${calc_score(scores[15])}`
             + `&q=${calc_score(scores[16])}`
-            + `&q=${calc_score(scores[17])}`;
+            + `&r=${calc_score(scores[17])}`;
     }
 </script>
 </body>
