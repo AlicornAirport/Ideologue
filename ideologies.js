@@ -1,6 +1,8 @@
 ideologies = [
         {
                 "name": "Pinochetism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 0,
@@ -22,6 +24,8 @@ ideologies = [
         },
         {
                 "name": "Third Way",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 60,
@@ -44,6 +48,8 @@ ideologies = [
         },
         {
                 "name": "Machiavelianism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 0,
@@ -66,6 +72,8 @@ ideologies = [
         },
         {
                 "name": "Anarcho-Xeno-Feminism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 50,
                     "coll": 100,
@@ -88,6 +96,8 @@ ideologies = [
         },
         {
                 "name": "Capitalist Transhumanism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 0,
@@ -110,6 +120,8 @@ ideologies = [
         },
         {
                 "name": "Ba'athism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 85,
                     "coll": 70,
@@ -132,6 +144,8 @@ ideologies = [
         },
         {
                 "name": "Anarcho-distributism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 65,
                     "coll": 70,
@@ -154,6 +168,8 @@ ideologies = [
         },
         {
                 "name": "Modern Theosocialism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 85,
                     "coll": 100,
@@ -176,6 +192,8 @@ ideologies = [
         },
         {
                 "name": "Anarcho-primitivism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 20,
                     "coll": 100,
@@ -198,6 +216,8 @@ ideologies = [
         },
         {
                 "name": "Koinoianism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 85,
                     "coll": 100,
@@ -220,6 +240,8 @@ ideologies = [
         },
         {
                 "name": "Eco-Communalism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 10,
                     "coll": 100,
@@ -243,6 +265,8 @@ ideologies = [
         },
         {
                 "name": "Earth Liberation",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 0,
                     "coll": 90,
@@ -265,6 +289,8 @@ ideologies = [
         },
         {
                 "name": "Indigenismo",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 65,
                     "coll": 30,
@@ -287,6 +313,8 @@ ideologies = [
         },
         {
                 "name": "Veganarchism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 0,
                     "coll": 100,
@@ -309,6 +337,8 @@ ideologies = [
         },
         {
                 "name": "Technogaianism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 0,
                     "coll": 70,
@@ -331,6 +361,8 @@ ideologies = [
         },
         {
                 "name": "Anarchotranshumanism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 50,
@@ -353,6 +385,8 @@ ideologies = [
         },
         {
                 "name": "Technoprogressivism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 55,
                     "coll": 50,
@@ -375,6 +409,8 @@ ideologies = [
         },
         {
                 "name": "Panarchy",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 60,
                     "coll": 100,
@@ -397,6 +433,8 @@ ideologies = [
        },
        {
                 "name": "Post-Leftism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 20,
                     "coll": 50,
@@ -419,6 +457,8 @@ ideologies = [
         },    
         {
                 "name": "Pink Anarchism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 50,
                     "coll": 65,
@@ -441,6 +481,8 @@ ideologies = [
             },
         {
                 "name": "Neozapatismo",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 85,
                     "coll": 100,
@@ -463,6 +505,8 @@ ideologies = [
             },
         {
                 "name": "Magonismo",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 92,
                     "coll": 75,
@@ -485,6 +529,8 @@ ideologies = [
         },
         {
                 "name": "Kibbutzism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 90,
                     "coll": 100,
@@ -507,6 +553,8 @@ ideologies = [
         },
         {
                 "name": "Abahlali baseMjondolo",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 70,
                     "coll": 100,
@@ -529,6 +577,8 @@ ideologies = [
         },
         {
                 "name": "Bioregionalism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 30,
                     "coll": 70,
@@ -551,6 +601,8 @@ ideologies = [
         },
         {
                 "name": "Ubuntu",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 50,
                     "coll": 100,
@@ -572,6 +624,8 @@ ideologies = [
         },
         {
                 "name": "Bennism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 44,
                     "coll": 80,
@@ -592,6 +646,8 @@ ideologies = [
         },
         {
                 "name": "Titoism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 100,
@@ -612,6 +668,8 @@ ideologies = [
         },
         {
                 "name": "Geoanarchism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 46,
                     "coll": 29,
@@ -628,6 +686,8 @@ ideologies = [
         },
         {
                 "name": "Geolibertarianism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 46,
                     "coll": 0,
@@ -644,6 +704,8 @@ ideologies = [
         },
         {
                 "name": "Social Georgism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 46,
                     "coll": 40,
@@ -660,6 +722,8 @@ ideologies = [
         },
         {
                 "name": "Georgism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 46,
                     "coll": 30,
@@ -676,6 +740,8 @@ ideologies = [
         },
         {
                 "name": "Caudillismo",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 85,
                     "coll": 20,
@@ -693,6 +759,8 @@ ideologies = [
       }, 
       {
                 "name": "Technocracy",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 0,
@@ -709,6 +777,8 @@ ideologies = [
         },
         {
                 "name": "Ochlocarchy",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100,
                     "coll": 100,
@@ -722,6 +792,8 @@ ideologies = [
         },
         {
                 "name": "Urbism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "coll": 90,
                     "prag": 50,
@@ -736,6 +808,8 @@ ideologies = [
         },
         {
                 "name": "Anarcho-Communism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "coll": 100,
                     "pac": 60,
@@ -750,6 +824,8 @@ ideologies = [
         },
         {
                 "name": "Anarcho-Capitalism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 90
                     "coll": 30,
@@ -763,6 +839,8 @@ ideologies = [
         },
         {
                 "name": "Egoism",
+                "link": "",
+                "desc": "",
                 "stats": {
                     "dom": 100  
                     "coll": 0,
